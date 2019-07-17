@@ -9,24 +9,24 @@ CVC = re.compile('(?P<red>(?:{}|)(?:{})(?:{}))-?(?P=red)'.format(C, V, C))
 CV  = re.compile('(?P<red>(?:{}|)(?:{}))-?(?P=red)'.format(C, V))
 
 # Encode lexical exceptions
-EXCEPTIONAL = dict([
-    ('babbaket', '<RED>baket'),
-    ('babbalasang', '<RED>balasang'),
-    ('babbalo', '<RED>balo'),
-    ('babbaro', '<RED>baro'),
-    ('lallakay', '<RED>lakay'),
-    ('tattao', '<RED>tao'),
-    ('addi', '<RED>adi'),
-    ('amma', '<RED>ama'),
-    ('annak', '<RED>anak'),
-    ('appo', '<RED>apo'),
-    ('assawa', '<RED>asawa'),
-    ('babbai', '<RED>babai'),
-    ('inna', '<RED>ina'),
-    ('ingnga', '<RED>inga'),
-    ('lallaki', '<RED>lalaki'),
-    ('ubbing', '<RED>ubing'),
-])
+EXCEPTIONAL = {
+    'babbaket': '<RED>baket',
+    'babbalasang': '<RED>balasang',
+    'babbalo': '<RED>balo',
+    'babbaro': '<RED>baro',
+    'lallakay': '<RED>lakay',
+    'tattao': '<RED>tao',
+    'addi': '<RED>adi',
+    'amma': '<RED>ama',
+    'annak': '<RED>anak',
+    'appo': '<RED>apo',
+    'assawa': '<RED>asawa',
+    'babbai': '<RED>babai',
+    'inna': '<RED>ina',
+    'ingnga': '<RED>inga',
+    'lallaki': '<RED>lalaki',
+    'ubbing': '<RED>ubing',
+}
 
 def dedup(token):
     # If the token is in the list of exceptions, output the listed value
