@@ -1,0 +1,65 @@
+Multichar_Symbols
++1 +2 +3
++Sg +Du +Pl
++Incl +Excl
++Erg +Abs
++1Pat +2Pat +3Pat
++SgPat +DuPat +PlPat
++InclPat +ExclPat
+^GUESSNOUNSTEM
+
+LEXICON Root
+0:0 Stem;
+
+LEXICON Stem
+^GUESSNOUNSTEM Encltic;
+
+LEXICON Enclitic
++1+Sg+Abs:ak #;
++2+Sg+Abs:ka #;
++3+Sg+Abs:isu #;
++1+Du+Incl+Abs:ta #;
++1+Pl+Excl+Abs:kami #;
++1+Pl+Incl+Abs:tayo #;
++3+Pl+Abs:da #;
++1+Sg+Erg:ko #;
++2+Sg+Erg:mo #;
++3+Sg+Erg:na #;
++1+Sg+Erg:k #;
++2+Sg+Erg:m #;
++1+Du+Incl+Erg:ta #;
++1+Pl+Excl+Erg:mi #;
++1+Pl+Incl+Erg:tayo #;
++2+Pl+Erg:yo #;
++3+Sg+Erg:da #;
++1+Sg+2Pat+SgPat:ka #;
++1+Sg+3Pat+SgPat:ko #;
++1+Sg+3Pat+SgPat:k #;
++2+Sg+1Pat+SgPat:nak #;
++3+Sg+1Pat+SgPat:nak #;
++2+Pl+1Pat+SgPat:dak #;
++3+Pl+1Pat+SgPat:dak #;
++3+Sg+2Pat+SgPat:naka #;
++1+Pl+Excl+2Pat+SgPat:daka #;
++3+Pl+2Pat+SgPat:daka #;
++2+Sg+3Pat+SgPat:mo #;
++2+Sg+3Pat+SgPat:m #;
++3+Sg+3Pat+SgPat:na #;
++1+Du+Incl+3Pat+SgPat:ta #;
++1+Pl+Excl+3Pat+SgPat:mi #;
++1+Pl+Incl+3Pat+SgPat:tayo #;
++2+Pl+3Pat+SgPat:yo #;
++3+Pl+3Pat+SgPat:da #;
++3+Sg+1Pat+DuPat+InclPat:nata #;
++2+Pl+1Pat+DuPat+InclPat:data #;
++3+Pl+1Pat+DuPat+InclPat:data #;
++2+Sg+1Pat+PlPat+ExclPat:nakami #;
++3+Sg+1Pat+PlPat+ExclPat:nakami #;
++2+Pl+1Pat+PlPat+ExclPat:dakami #;
++3+Pl+1Pat+PlPat+ExclPat:dakami #;
++3+Sg+1Pat+PlPat+InclPat:natayo #;
++3+Pl+1Pat+PlPat+InclPat:datayo #;
++1+Sg+2Pat+PlPat:kayo #;
++3+Sg+2Pat+PlPat:nakayo #;
++1+Pl+Excl+2Pat+PlPat:dakayo #;
++3+Pl+2Pat+PlPat:dakayo #;
