@@ -1,11 +1,10 @@
 Multichar_Symbols
-+1 +2 +3
-+Sg +Du +Pl
-+Incl +Excl
-+Erg +Abs
-+1Pat +2Pat +3Pat
-+SgPat +DuPat +PlPat
-+InclPat +ExclPat
++1Erg +2Erg +3Erg
++SgErg +DuErg +PlErg
++InclErg +ExclErg
++1Abs +2Abs +3Abs
++SgAbs +DuAbs +PlAbs
++InclAbs +ExclAbs
 ^GUESSNOUNSTEM
 
 LEXICON Root
@@ -15,51 +14,51 @@ LEXICON Stem
 ^GUESSNOUNSTEM Enclitic;
 
 LEXICON Enclitic
-+1+Sg+Abs:ak #;
-+2+Sg+Abs:ka #;
-+3+Sg+Abs:isu #;
-+1+Du+Incl+Abs:ta #;
-+1+Pl+Excl+Abs:kami #;
-+1+Pl+Incl+Abs:tayo #;
-+3+Pl+Abs:da #;
-+1+Sg+Erg:ko #;
-+2+Sg+Erg:mo #;
-+3+Sg+Erg:na #;
-+1+Sg+Erg:k #;
-+2+Sg+Erg:m #;
-+1+Du+Incl+Erg:ta #;
-+1+Pl+Excl+Erg:mi #;
-+1+Pl+Incl+Erg:tayo #;
-+2+Pl+Erg:yo #;
-+3+Sg+Erg:da #;
-+1+Sg+2Pat+SgPat:ka #;
-+1+Sg+3Pat+SgPat:ko #;
-+1+Sg+3Pat+SgPat:k #;
-+2+Sg+1Pat+SgPat:nak #;
-+3+Sg+1Pat+SgPat:nak #;
-+2+Pl+1Pat+SgPat:dak #;
-+3+Pl+1Pat+SgPat:dak #;
-+3+Sg+2Pat+SgPat:naka #;
-+1+Pl+Excl+2Pat+SgPat:daka #;
-+3+Pl+2Pat+SgPat:daka #;
-+2+Sg+3Pat+SgPat:mo #;
-+2+Sg+3Pat+SgPat:m #;
-+3+Sg+3Pat+SgPat:na #;
-+1+Du+Incl+3Pat+SgPat:ta #;
-+1+Pl+Excl+3Pat+SgPat:mi #;
-+1+Pl+Incl+3Pat+SgPat:tayo #;
-+2+Pl+3Pat+SgPat:yo #;
-+3+Pl+3Pat+SgPat:da #;
-+3+Sg+1Pat+DuPat+InclPat:nata #;
-+2+Pl+1Pat+DuPat+InclPat:data #;
-+3+Pl+1Pat+DuPat+InclPat:data #;
-+2+Sg+1Pat+PlPat+ExclPat:nakami #;
-+3+Sg+1Pat+PlPat+ExclPat:nakami #;
-+2+Pl+1Pat+PlPat+ExclPat:dakami #;
-+3+Pl+1Pat+PlPat+ExclPat:dakami #;
-+3+Sg+1Pat+PlPat+InclPat:natayo #;
-+3+Pl+1Pat+PlPat+InclPat:datayo #;
-+1+Sg+2Pat+PlPat:kayo #;
-+3+Sg+2Pat+PlPat:nakayo #;
-+1+Pl+Excl+2Pat+PlPat:dakayo #;
-+3+Pl+2Pat+PlPat:dakayo #;
++1Abs+SgAbs+Abs:ak #;
++2Abs+SgAbs+Abs:ka #;
++3Abs+SgAbs+Abs:isu #;
++1Abs+DuAbs+InclAbs+Abs:ta #;
++1Abs+PlAbs+ExclAbs+Abs:kami #;
++1Abs+PlAbs+InclAbs+Abs:tayo #;
++3Abs+PlAbs+Abs:da #;
++1Erg+SgErg+Erg:ko #;
++2Erg+SgErg+Erg:mo #;
++3Erg+SgErg+Erg:na #;
++1Erg+SgErg+Erg:k #;
++2Erg+SgErg+Erg:m #;
++1Erg+DuErg+InclErg+Erg:ta #;
++1Erg+PlErg+ExclErg+Erg:mi #;
++1Erg+PlErg+InclErg+Erg:tayo #;
++2Erg+PlErg+Erg:yo #;
++3Erg+SgErg+Erg:da #;
++1Erg+SgErg+2Abs+SgErgAbs:ka #;
++1Erg+SgErg+3Abs+SgErgAbs:ko #;
++1Erg+SgErg+3Abs+SgErgAbs:k #;
++2Erg+SgErg+1Abs+SgErgAbs:nak #;
++3Erg+SgErg+1Abs+SgErgAbs:nak #;
++2Erg+PlErg+1Abs+SgErgAbs:dak #;
++3Erg+PlErg+1Abs+SgErgAbs:dak #;
++3Erg+SgErg+2Abs+SgErgAbs:naka #;
++1Erg+PlErg+ExclErg+2Abs+SgErgAbs:daka #;
++3Erg+PlErg+2Abs+SgErgAbs:daka #;
++2Erg+SgErg+3Abs+SgErgAbs:mo #;
++2Erg+SgErg+3Abs+SgErgAbs:m #;
++3Erg+SgErg+3Abs+SgErgAbs:na #;
++1Erg+DuErg+InclErg+3Abs+SgErgAbs:ta #;
++1Erg+PlErg+ExclErg+3Abs+SgErgAbs:mi #;
++1Erg+PlErg+InclErg+3Abs+SgErgAbs:tayo #;
++2Erg+PlErg+3Abs+SgErgAbs:yo #;
++3Erg+PlErg+3Abs+SgErgAbs:da #;
++3Erg+SgErg+1Abs+DuErgAbs+InclAbs:nata #;
++2Erg+PlErg+1Abs+DuErgAbs+InclAbs:data #;
++3Erg+PlErg+1Abs+DuErgAbs+InclAbs:data #;
++2Erg+SgErg+1Abs+PlErgAbs+ExclAbs:nakami #;
++3Erg+SgErg+1Abs+PlErgAbs+ExclAbs:nakami #;
++2Erg+PlErg+1Abs+PlErgAbs+ExclAbs:dakami #;
++3Erg+PlErg+1Abs+PlErgAbs+ExclAbs:dakami #;
++3Erg+SgErg+1Abs+PlErgAbs+InclAbs:natayo #;
++3Erg+PlErg+1Abs+PlErgAbs+InclAbs:datayo #;
++1Erg+SgErg+2Abs+PlErgAbs:kayo #;
++3Erg+SgErg+2Abs+PlErgAbs:nakayo #;
++1Erg+PlErg+ExclErg+2Abs+PlErgAbs:dakayo #;
++3Erg+PlErg+2Abs+PlErgAbs:dakayo #;
