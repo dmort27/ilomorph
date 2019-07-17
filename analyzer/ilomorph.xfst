@@ -1,0 +1,18 @@
+!!!ilomorph.xfst!!!
+
+clear stack
+
+define Cons 0 | p | t | k | b | d | g | t s | t i | d i | s | s i | h | m | n | n i | n g | l | l i | r | r r | w | y ;
+define Vow a | e | i | o | u ;
+
+define Stem [[Cons | Vow]+ (Cons)] "+Guess":0;
+
+read lexc < ilomorph.lexc
+
+substitute defined Stem for "^GUESSNOUNSTEM"
+
+define AllNouns;
+
+read regex ~$["+Guess"] .o. AllNouns ;
+
+read regex $["+Guess"] .o. AllNouns ;

@@ -12,7 +12,7 @@ LEXICON Root
 0:0 Stem;
 
 LEXICON Stem
-^GUESSNOUNSTEM Encltic;
+^GUESSNOUNSTEM Enclitic;
 
 LEXICON Enclitic
 +1+Sg+Abs:ak #;
