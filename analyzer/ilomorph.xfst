@@ -16,3 +16,5 @@ define AllNouns;
 read regex ~$["+Guess"] .o. AllNouns ;
 
 read regex $["+Guess"] .o. AllNouns ;
+
+save stack ilo.fst
