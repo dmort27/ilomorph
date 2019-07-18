@@ -1,4 +1,5 @@
 Multichar_Symbols
+Sg Du Pl
 +1Erg +2Erg +3Erg
 +SgErg +DuErg +PlErg
 +InclErg +ExclErg
@@ -8,10 +9,18 @@ Multichar_Symbols
 ^GUESSNOUNSTEM
 
 LEXICON Root
+0:0 Prefix;
+
+LEXICON Prefix
+0:%<RED%> Stem;
 0:0 Stem;
 
 LEXICON Stem
-^GUESSNOUNSTEM Enclitic;
+^GUESSNOUNSTEM PostStem;
+
+LEXICON PostStem
+Enclitic;
+#;
 
 LEXICON Enclitic
 +1Abs+SgAbs:ak #;
