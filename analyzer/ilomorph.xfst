@@ -5,7 +5,7 @@ clear stack
 define Cons 0 | p | t | k | b | d | g | t s | t i | d i | s | s i | h | m | n | n i | n g | l | l i | r | r r | w | y ;
 define Vow a | e | i | o | u ;
 
-define Stem [[Cons | Vow]* Vow (Cons)] "+Guess":0;
+define Stem [Cons | Vow]^>2 "+Guess":0;
 
 read lexc < ilomorph.lexc
 
