@@ -6,8 +6,8 @@ C = 'p|t|k|b|d|g|ts|ti|di|s|si|h|m|n|ni|ng|l|li|r|rr|w|y'
 V = 'a|e|i|o|u'
 
 # Compile regular expressions to match reduplication patterns
-CVC = re.compile('(?P<red>(?:{}|)(?:{})(?:{}))-?(?P=red)'.format(C, V, C))
-CV  = re.compile('(?P<red>(?:{}|)(?:{}))-?(?P=red)'.format(C, V))
+CVC = re.compile('^(?P<red>(?:{}|)(?:{})(?:{}))-?(?P=red)'.format(C, V, C))
+CV  = re.compile('^(?P<red>(?:{}|)(?:{}))-?(?P=red)'.format(C, V))
 
 # Encode lexical exceptions
 EXCEPTIONAL = {
