@@ -36,6 +36,7 @@ LEXICON SingularFeature
 
 LEXICON Enclitic
 +1Abs+SgAbs:ak Adverbials;
++1Abs+SgAbs+Emph:akon #;
 +2Abs+SgAbs:ka Adverbials;
 +3Abs+SgAbs:isu Adverbials;
 +1Abs+DuAbs+InclAbs:ta Adverbials;
