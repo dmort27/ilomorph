@@ -15,8 +15,11 @@ substitute defined Stem for "^GUESSNOUNSTEM"
 
 define AllNouns;
 
-read regex ~$["+Guess"] .o. AllNouns ;
+define Apocope "^E" ->  0 || Vow _ .o. "^N" -> 0 || Cons _ ;
+define Realize "^E" -> e || "^N" -> n ;
 
-read regex $["+Guess"] .o. AllNouns ;
+read regex ~$["+Guess"] .o. AllNouns .o. Apocope .o. Realize;
+
+read regex $["+Guess"] .o. AllNouns .o. Apocope .o. Realize;
 
 save stack ilo.fst
