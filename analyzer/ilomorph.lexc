@@ -6,7 +6,7 @@ Multichar_Symbols
 +1Abs +2Abs +3Abs
 +SgAbs +DuAbs +PlAbs
 +InclAbs +ExclAbs
-@U.NUM.PL@
+@U.NUM.PL@ @U.NUM.SG@
 ^GUESSNOUNSTEM
 
 LEXICON Root
@@ -14,7 +14,10 @@ LEXICON Root
 
 LEXICON Prefix
 0:%<RED%> Plural;
-0:0 Stem;
+0:0 Singular;
+
+LEXICON Singular
+@U.NUM.SG@ Stem;
 
 LEXICON Plural
 @U.NUM.PL@ Stem;
