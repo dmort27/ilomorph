@@ -6,6 +6,7 @@ Multichar_Symbols
 +1Abs +2Abs +3Abs
 +SgAbs +DuAbs +PlAbs
 +InclAbs +ExclAbs
++^N +^E
 @U.NUM.PL@ @U.NUM.SG@
 ^GUESSNOUNSTEM
 
