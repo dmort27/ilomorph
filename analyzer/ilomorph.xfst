@@ -2,11 +2,11 @@
 
 clear stack
 
-define Cons p | t | k | b | d | g | t s | t i | d i | s | s i | h | m | n | n i | n g | l | l i | r | r r | w | y |
-            P | T | K | B | D | G | T s | T i | D i | s | S i | H | M | N | N i | N g | L | L i | R | R r | W | Y |
+define Cons p | t | k | b | d | g | t s | t i | d i | f | s | s i | h | m | n | n i | n g | l | l i | r | r r | w | y |
+            P | T | K | B | D | G | T s | T i | D i | F | s | S i | H | M | N | N i | N g | L | L i | R | R r | W | Y |
                                     T S | T I | D I     | S I             | N I | N G               | R R         ;
 define Vow a | e | i | o | u | A | E | I | O | U ;
-define Stem [ [ Cons ]* Vow [ Cons ]* ]^>1 "+Guess":0;
+define Stem [ [ Cons ]* Vow [ Cons ]* ]+ "+Guess":0;
 
 read lexc < ilomorph.lexc
 
