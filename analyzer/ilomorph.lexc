@@ -7,8 +7,8 @@ Multichar_Symbols
 +SgAbs +DuAbs +PlAbs
 +InclAbs +ExclAbs
 +Emph +Dub +Real
-^N ^E
 @U.NUM.PL@ @U.NUM.SG@
+^N ^E
 ^GUESSNOUNSTEM
 
 LEXICON Root
@@ -83,7 +83,7 @@ LEXICON Enclitic
 +3Erg+SgErg+2Abs+PlAbs:nakayo Adverbials;
 +1Erg+PlErg+ExclErg+2Abs+PlAbs:dakayo Adverbials;
 +3Erg+PlErg+2Abs+PlAbs:dakayo Adverbials;
-#;
+Adverbials;
 
 LEXICON Adverbials
 +Emph:^En #;

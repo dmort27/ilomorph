@@ -1,0 +1,2964 @@
+binting Enclitic; ! 25 cent piece
+salapi Enclitic; ! 50 cent piece
+kaban Enclitic; ! 75 liters
+pus-ong Enclitic; ! abdomen
+tian Enclitic; ! abdomen
+panagur-uray Enclitic; ! abeyance
+panangteng-ngel Enclitic; ! abeyance
+kabaelan Enclitic; ! ability
+kabaelan Enclitic; ! ability
+makasterikk Enclitic; ! able to enter
+kaawan Enclitic; ! absence
+talimpungawen Enclitic; ! absent minded
+kinaadu Enclitic; ! abundance
+kontador Enclitic; ! accountant
+alsem Enclitic; ! acidity
+kinaalsem Enclitic; ! acidity
+kaduaan Enclitic; ! acompany
+kuyohen Enclitic; ! acompany
+am-ammo Enclitic; ! acquaintance
+aramid Enclitic; ! activity
+panangnayon Enclitic; ! addition
+nayonan Enclitic; ! add to
+panagdayaw Enclitic; ! admiral
+panagawat Enclitic; ! admission
+panagpastrek Enclitic; ! admission
+bountipul Enclitic; ! ado
+many Enclitic; ! ado
+adberbo Enclitic; ! adverb
+pakaammo Enclitic; ! advertisement
+pakdaar Enclitic; ! advertisement
+pannakaiwarnak Enclitic; ! advertisement
+balakadan Enclitic; ! advice
+patigmaan Enclitic; ! advice
+aramid Enclitic; ! affair
+banag Enclitic; ! affair
+kadkadua Enclitic; ! afterbirth
+malem Enclitic; ! afternoon
+kabusor Enclitic; ! against
+maisupiat Enclitic; ! against
+ahensia Enclitic; ! agency
+sanga Enclitic; ! agency
+ahente Enclitic; ! agent
+pannakabahi Enclitic; ! agent
+panagtunos Enclitic; ! agreement
+tulag Enclitic; ! agreement
+panagmula Enclitic; ! agriculture
+panagtalon Enclitic; ! agriculture
+eroplano Enclitic; ! airplane
+alkohol Enclitic; ! alcohol
+arak Enclitic; ! alcohol
+pakikipanig Enclitic; ! alignment
+panagrukbab Enclitic; ! allegiance
+panagtalek Enclitic; ! allegiance
+kurditan Enclitic; ! alphabet
+altar Enclitic; ! altar
+nupay Enclitic; ! although
+uray Enclitic; ! although
+kangato Enclitic; ! altitude
+kuantong Enclitic; ! amaranth
+maysa Enclitic; ! a
+embahador Enclitic; ! ambassador
+panagdayaw Enclitic; ! amiration
+kadahiti Enclitic; ! among
+anting-anting Enclitic; ! amulet
+ayam Enclitic; ! amusement
+pagragsakan Enclitic; ! amusement
+at Enclitic; ! and
+ken Enclitic; ! and
+ket Enclitic; ! and
+orasion Enclitic; ! angelus
+lipay-lipay Enclitic; ! ankle bone
+gorong Enclitic; ! ankle
+lipay-lipay Enclitic; ! ankle
+uliteg Enclitic; ! ankle
+anibersario Enclitic; ! anniversary
+annibersar Enclitic; ! anniversary
+panagtawen Enclitic; ! anniversary
+subalitan Enclitic; ! answer letter
+aboos Enclitic; ! ant
+kuton Enclitic; ! ant
+kannit Enclitic; ! ant
+kuton Enclitic; ! ant
+sara Enclitic; ! antler
+kuriit Enclitic; ! anus
+ubet Enclitic; ! anus
+gagar Enclitic; ! anxiety
+iliw Enclitic; ! anxiety
+silid Enclitic; ! apartment
+aplat Enclitic; ! aphid
+kasapulan Enclitic; ! apparatus
+ramramit Enclitic; ! apparatus
+al-alia Enclitic; ! apparition
+langa Enclitic; ! appearance
+palutan Enclitic; ! appetizer
+mansanas Enclitic; ! apple
+panagtarigagay Enclitic; ! application
+panangipakat Enclitic; ! application
+pannakadutok Enclitic; ! appointment
+panagdayar Enclitic; ! appreciation
+bidang Enclitic; ! apron
+kayo Enclitic; ! arbor
+purpuro Enclitic; ! archipelago
+arkitekto Enclitic; ! architect
+pudot Enclitic; ! ardor
+reghet Enclitic; ! ardor
+panagsinnungoat Enclitic; ! argument
+supiat Enclitic; ! argument
+agassibay Enclitic; ! arm over shoulder
+kilikili Enclitic; ! armpit
+kili-kili Enclitic; ! armpit
+pannakaurnos Enclitic; ! arrangement
+urnos Enclitic; ! arrangement
+idadateng Enclitic; ! arrival
+isasangpet Enclitic; ! arrival
+pana Enclitic; ! arrow
+laing Enclitic; ! art
+ste Enclitic; ! art
+panagsang-at Enclitic; ! ascendancy
+panaguli Enclitic; ! ascendancy
+pannakabahi Enclitic; ! assemblyman
+representante Enclitic; ! assemblyman
+keret Enclitic; ! asshole
+kimmot Enclitic; ! asshole
+aramiden Enclitic; ! assignment
+keddeng Enclitic; ! assignment
+leksion Enclitic; ! assignment
+trabaho Enclitic; ! assignment
+pananganag Enclitic; ! assimilation
+badang Enclitic; ! assistance
+tulong Enclitic; ! assistance
+akuen Enclitic; ! association
+alaen Enclitic; ! association
+gunglo Enclitic; ! association
+yarig Enclitic; ! association
+panagsiddaaw Enclitic; ! astonishment
+agtarindanum Enclitic; ! athletes foot
+sa Enclitic; ! at
+ititipon Enclitic; ! attachment
+panagtipon Enclitic; ! attachment
+naragpat Enclitic; ! attainment
+pannakaragpat Enclitic; ! attainment
+Pakdaar! Enclitic; ! Attention!
+panangikaso Enclitic; ! attention
+abogado Enclitic; ! attorney
+mangilinteg Enclitic; ! attorney
+andiyan Enclitic; ! attraction
+panangawis Enclitic; ! attraction
+dum-dumngeg Enclitic; ! audience
+ikit Enclitic; ! auntie
+ikit Enclitic; ! aunt
+tia Enclitic; ! aunt
+tita Enclitic; ! aunt
+pannakabalin Enclitic; ! authority
+turay Enclitic; ! authority
+panagpadas Enclitic; ! aventure
+paglussok Enclitic; ! awl
+pagakkub Enclitic; ! awning
+sumayag Enclitic; ! axe blow
+ehe Enclitic; ! axle
+piek Enclitic; ! baby chick
+agawawir Enclitic; ! babysit
+dori-dori Enclitic; ! back bone
+dingoen Enclitic; ! back yard
+tosino Enclitic; ! bacon
+malas Enclitic; ! bad luck
+nangusan Enclitic; ! bagasse
+agkaras Enclitic; ! bail out
+panadero Enclitic; ! baker
+panaderia Enclitic; ! bakery
+pagsalaan Enclitic; ! ballroom
+bayug Enclitic; ! bamboo
+bikal Enclitic; ! bamboo
+bolo Enclitic; ! bamboo
+bungbung Enclitic; ! bamboo bomb
+pakris Enclitic; ! bamboo branches
+kawayan Enclitic; ! bamboo
+kawayan Enclitic; ! bamboo
+pakris Enclitic; ! bamboo
+rabong Enclitic; ! bamboo
+banban Enclitic; ! bamboo ties
+agoklap Enclitic; ! banana
+alupasi Enclitic; ! banana
+bagio Enclitic; ! banana
+bulig Enclitic; ! banana bundle
+dato Enclitic; ! banana
+dippig Enclitic; ! banana
+agoklap Enclitic; ! banana flower
+sabunganay Enclitic; ! banana flower
+gaddil Enclitic; ! banana
+gloria Enclitic; ! banana
+guyod Enclitic; ! banana
+kamarines Enclitic; ! banana
+kanton Enclitic; ! banana
+lakatan Enclitic; ! banana
+alupasi Enclitic; ! banana leaf
+palatang Enclitic; ! banana leaf
+agtungrow Enclitic; ! banana plantation
+kasabaan Enclitic; ! banana plantation
+saba Enclitic; ! banana
+sabunganay Enclitic; ! banana
+seniorita Enclitic; ! banana
+siping Enclitic; ! banana
+sapad Enclitic; ! bananas
+siping Enclitic; ! bananas
+subbual Enclitic; ! banana sucker
+tondal Enclitic; ! banana
+tumok Enclitic; ! banana
+buniag Enclitic; ! baptism
+salbatio Enclitic; ! baptism
+agtaol Enclitic; ! barker
+manangawis Enclitic; ! barker
+kamarin Enclitic; ! barn
+baba Enclitic; ! basement
+sirok Enclitic; ! basement
+palanggana Enclitic; ! basin
+basket Enclitic; ! basket
+kuribot Enclitic; ! basket
+labba Enclitic; ! basket
+bateria Enclitic; ! battery
+imnas Enclitic; ! beauty
+libnos Enclitic; ! beauty
+pintas Enclitic; ! beauty
+aganak Enclitic; ! be born
+agsipud Enclitic; ! because
+dahil Enclitic; ! because
+kasi Enclitic; ! because
+ngamin Enclitic; ! because
+sapagkat Enclitic; ! because
+kiteb Enclitic; ! bedbug
+alig Enclitic; ! bee
+alimbubuyog Enclitic; ! beer
+serbesa Enclitic; ! beer
+uyokan Enclitic; ! bee
+panagpalpalama Enclitic; ! beggarliness
+agdadamo Enclitic; ! beginner
+mangruruhi Enclitic; ! beginner
+gudua Enclitic; ! behalf
+tignay Enclitic; ! behavior
+pammati Enclitic; ! belif
+arpad Enclitic; ! beside
+sikigan Enclitic; ! beside
+gawed Enclitic; ! betel pepper
+inumen Enclitic; ! beverage
+Biblia Enclitic; ! bible
+gumagatang Enclitic; ! bidder
+tumatawar Enclitic; ! bidder
+lungon Enclitic; ! bier
+baknang Enclitic; ! bigwig
+nalaing Enclitic; ! bigwig
+repetten Enclitic; ! bind or tie
+luhit Enclitic; ! bird manure
+talakob Enclitic; ! bird trap
+kasangay Enclitic; ! birthday
+kasangay Enclitic; ! birthday
+panagtao Enclitic; ! birthday
+pinnakaeanak Enclitic; ! birthday
+siding Enclitic; ! birthmark
+nagayyanakan Enclitic; ! birthplace
+biskuit Enclitic; ! biscuit
+obispo Enclitic; ! bishop
+paria Enclitic; ! bittermelon
+pisara Enclitic; ! blackboard
+manggagamud Enclitic; ! black magic
+pumapanday Enclitic; ! blacksmith
+basisaw Enclitic; ! bladder
+bulong Enclitic; ! blade
+tadem Enclitic; ! blade
+dakes Enclitic; ! blasphemy
+parbo Enclitic; ! blasphemy
+agkirem Enclitic; ! blink eyes
+ayat Enclitic; ! bliss
+pagragsakan Enclitic; ! bliss
+bado Enclitic; ! blouse
+agbusina Enclitic; ! blow horn
+agpangres Enclitic; ! blow nose
+agpuyot Enclitic; ! blow on
+panagbettak Enclitic; ! blow-out
+anguyob Enclitic; ! blow pipe
+anglit Enclitic; ! body odor
+aglambong Enclitic; ! boil vegetables or meat
+buneng Enclitic; ! bolo
+pannakaadipen Enclitic; ! bondage
+pannakatagabo Enclitic; ! bondage
+tonsan Enclitic; ! bottle cap
+kategan Enclitic; ! boundary
+nagbaetan Enclitic; ! boundary
+pagbeddengan Enclitic; ! boundary
+tumakki Enclitic; ! bowels
+nobio Enclitic; ! boyfriend
+ubing Enclitic; ! boyfriend
+lalaki Enclitic; ! boy
+pulseras Enclitic; ! bracelet
+tuyo Enclitic; ! bran
+daluyon Enclitic; ! breakers
+anges Enclitic; ! breath
+agal-al Enclitic; ! breathe hard
+sang-aw Enclitic; ! breath
+kabsat Enclitic; ! brethren
+panagpasukib Enclitic; ! bribery
+pangsaborno Enclitic; ! bribery
+baldosa Enclitic; ! brick
+ladrilo Enclitic; ! brick
+nobio Enclitic; ! bridegroom
+nobia Enclitic; ! bride
+trahe Enclitic; ! bride
+birkog Enclitic; ! brigand
+tulisan Enclitic; ! brigand
+raniag Enclitic; ! brightness
+lawagan Enclitic; ! brightren
+lawahen Enclitic; ! brightren
+deraas Enclitic; ! brink
+ihid Enclitic; ! brink
+iwaragawag Enclitic; ! broadast
+iwarnak Enclitic; ! broadast
+likkalikkaong Enclitic; ! broken or rolling ground
+digo Enclitic; ! broth
+balarangeo Enclitic; ! brother
+panagkakabsat Enclitic; ! brotherhood
+timpuyog Enclitic; ! brotherhood
+bayaw Enclitic; ! brother-in-law
+kayong Enclitic; ! brother-in-law
+kabsat Enclitic; ! brother
+manong Enclitic; ! brother
+kiday Enclitic; ! brow
+itik Enclitic; ! brown duck
+alibut Enclitic; ! brown lizard
+kadua Enclitic; ! buddy
+gayyem Enclitic; ! buddy
+nagaramid Enclitic; ! builder
+nagpatakder Enclitic; ! builder
+bombila Enclitic; ! bulb
+bumbilia Enclitic; ! bulb
+bala Enclitic; ! bullet
+alimbubuyog Enclitic; ! bumblebee
+maitomeg Enclitic; ! bump head
+bangad Enclitic; ! buneng
+kaluban Enclitic; ! buneng
+mateptep Enclitic; ! buneng
+tirad Enclitic; ! buneng
+buro Enclitic; ! bureau
+agtakaw Enclitic; ! burglar
+panangitanem Enclitic; ! burial
+pumpon Enclitic; ! burial
+nakusep Enclitic; ! burn bad
+ahinson Enclitic; ! burn brush
+nasinit Enclitic; ! burned food
+narubrub Enclitic; ! burn good
+agsinit Enclitic; ! burn yourself
+negosio Enclitic; ! business
+pagsapulan Enclitic; ! business
+trabaho Enclitic; ! business
+agbambantay Enclitic; ! butler
+mayordomo Enclitic; ! butler
+ubet Enclitic; ! buttocks
+aggatang Enclitic; ! buyer
+gumagatang Enclitic; ! buyer
+agbuybuya Enclitic; ! bystander
+nakakita Enclitic; ! bystander
+saksi Enclitic; ! bystander
+kabaret Enclitic; ! cabaret
+pagsalaan Enclitic; ! cabaret
+gabinete Enclitic; ! cabinet
+darasudos Enclitic; ! cad
+dursok Enclitic; ! cad
+kapeteria Enclitic; ! cafeteria
+didigra Enclitic; ! calamity
+buhi Enclitic; ! calf
+urbon Enclitic; ! calf
+panangpadakes Enclitic; ! calumny
+kamera Enclitic; ! camera
+agngayangay Enclitic; ! candidate
+kandidato Enclitic; ! candidate
+ahilata Enclitic; ! canner
+kapeteria Enclitic; ! canteen
+kanteen Enclitic; ! canteen
+panganan Enclitic; ! canteen
+kamsut Enclitic; ! cant hook
+tablon Enclitic; ! cant (squared timber)
+panakatiliw Enclitic; ! captivity
+pannakaibalud Enclitic; ! captivity
+auto Enclitic; ! car
+estasion Enclitic; ! carbarn
+kalburo Enclitic; ! carbide
+plete Enclitic; ! carfare
+kargada Enclitic; ! cargo
+kargamento Enclitic; ! cargo
+kotse Enclitic; ! car
+pagluganan Enclitic; ! car
+karuahe Enclitic; ! carriage
+pagluganan Enclitic; ! carriage
+agamamit Enclitic; ! carrier
+kargador Enclitic; ! carrier
+agkaryada Enclitic; ! carry cargo for somebody
+agsosoon Enclitic; ! carry on head
+agbaklay Enclitic; ! carry on shoulder
+ipawit Enclitic; ! carry to somebody
+nadangran Enclitic; ! casualty
+natay Enclitic; ! casualty
+agsippaw Enclitic; ! catch something thrown
+umabut Enclitic; ! catch up with
+budwa-budwan Enclitic; ! caterpillar
+paltat Enclitic; ! catfish
+pating Enclitic; ! catfish
+baka Enclitic; ! cattle
+baka Enclitic; ! cattle
+kaldero Enclitic; ! cauldron
+paglutuan Enclitic; ! cauldron
+bukbok Enclitic; ! cavity
+kanayon Enclitic; ! ceaselesss
+bodibida Enclitic; ! ceiling
+kangatuan Enclitic; ! ceiling
+ngato Enclitic; ! ceiling
+panangdayaw Enclitic; ! celebration
+panangrambak Enclitic; ! celebration
+parambak Enclitic; ! celebration
+maingel Enclitic; ! celebrity
+nalatak Enclitic; ! celebrity
+bodega Enclitic; ! cellar
+siled Enclitic; ! cell
+kamposanto Enclitic; ! cemetery
+pahipumponan Enclitic; ! cemetery
+kateng- Enclitic; ! centerpiece
+gayaman Enclitic; ! centipede
+seremonia Enclitic; ! ceremony
+panangrambak Enclitic; ! ceremony
+agtestes Enclitic; ! chain saw
+burik Enclitic; ! change color
+kapitulo Enclitic; ! chapter
+paset Enclitic; ! chapter
+pugon Enclitic; ! charcoal pile
+asi Enclitic; ! charity
+panangngaasi Enclitic; ! charity
+kinadalus Enclitic; ! chastity
+tsoper Enclitic; ! chauffer
+kamison Enclitic; ! chemise
+kimiko Enclitic; ! chemist
+kimika Enclitic; ! chemistry
+makaliwliwa Enclitic; ! cherrful
+maragasak Enclitic; ! cherrful
+barukong Enclitic; ! chest
+barukong Enclitic; ! chest
+lakasa Enclitic; ! chest
+agmama Enclitic; ! chew betel nut
+agngatingat Enclitic; ! chew cud
+dutdut Enclitic; ! chicken feathers or hair
+ulmog Enclitic; ! chicken flea
+takrot Enclitic; ! chicken-hearted
+karaykayen Enclitic; ! chicken scratching
+lambi-lambi Enclitic; ! chicken wattles
+piek Enclitic; ! chick
+anak Enclitic; ! child
+pannakayanak Enclitic; ! childbirth
+putot Enclitic; ! child
+ubing Enclitic; ! children
+ubbing Enclitic; ! child
+ubing Enclitic; ! child
+sili Enclitic; ! chili pepper
+insik Enclitic; ! Chinese person
+ikelso Enclitic; ! chock wheel
+langdet Enclitic; ! chopping block
+Cristo Enclitic; ! christ
+Jesu-Cristo Enclitic; ! christ
+Paskua Enclitic; ! christmas
+kundidit Enclitic; ! cicada
+riari Enclitic; ! cicada
+sigarilio Enclitic; ! cigarette
+kasasaad Enclitic; ! circumstances
+pasamak Enclitic; ! circumstances
+pannakipahili Enclitic; ! citizenship
+umili Enclitic; ! citizen
+siudad Enclitic; ! city
+dasig Enclitic; ! classification
+panaglalasin Enclitic; ! classification
+sekka Enclitic; ! clay
+pananglawag Enclitic; ! clearance
+pannakadalus Enclitic; ! clearance
+agseg-am Enclitic; ! clear throat
+pammakawan Enclitic; ! clemency
+rangkis Enclitic; ! cliff
+tipang Enclitic; ! cliff
+klima Enclitic; ! climate
+tawen Enclitic; ! climate
+tiempo Enclitic; ! climate
+klinika Enclitic; ! clinic
+pangagasan Enclitic; ! clinic
+mani-mani Enclitic; ! clitoris
+tuldi Enclitic; ! clitoris
+relos Enclitic; ! clock or watch
+agkidem Enclitic; ! close eyes
+luplupot Enclitic; ! cloth
+lupot Enclitic; ! cloth
+nisnis Enclitic; ! cloth
+koatsero Enclitic; ! coachman
+panagmaymaysa Enclitic; ! coalition
+panagtitimpuyog Enclitic; ! coalition
+bulangan Enclitic; ! cockpit
+galera Enclitic; ! cockpit
+ipes Enclitic; ! cockroach
+sipet Enclitic; ! cockroach
+tapingar Enclitic; ! cocks comb
+bokayo Enclitic; ! coconut balls
+barairong Enclitic; ! coconut beetle
+lumpaso Enclitic; ! coconut husk floor polisher
+niog Enclitic; ! coconut
+lana Enclitic; ! coconut oil
+iniug Enclitic; ! coconut tree
+panangbuteng Enclitic; ! coercion
+panangpilit Enclitic; ! coercion
+kape Enclitic; ! coffee
+kapi Enclitic; ! coffee
+kapateria Enclitic; ! coffee maker
+tae Enclitic; ! collage
+agsingir Enclitic; ! collect debt
+dagup Enclitic; ! collection
+nasingiran Enclitic; ! collection
+agsingsingir Enclitic; ! collector
+mangumeng Enclitic; ! collector
+kolehio Enclitic; ! college
+adihi Enclitic; ! column
+binatog Enclitic; ! column
+panagtitipon Enclitic; ! combination
+bandus Enclitic; ! comet
+dulaw Enclitic; ! comet
+magraragsak Enclitic; ! comforter
+mangliwliwa Enclitic; ! comforter
+pangulo Enclitic; ! commander
+pananglahip Enclitic; ! commemoration
+ayayam Enclitic; ! commencement
+komersio Enclitic; ! commerce
+panaglako Enclitic; ! commerce
+komisionado Enclitic; ! commissioner
+diputado Enclitic; ! commissioner
+komite Enclitic; ! committee
+panagsarita Enclitic; ! communication
+panagsinnarita Enclitic; ! communication
+surat Enclitic; ! communication
+bario Enclitic; ! community
+ili Enclitic; ! community
+kumunidad Enclitic; ! community
+oraganisation Enclitic; ! community
+purok Enclitic; ! community
+panagkadua Enclitic; ! companionship
+benneg Enclitic; ! compartment
+siled Enclitic; ! compartment
+asi Enclitic; ! compassion
+panangngaasi Enclitic; ! compassion
+kailian Enclitic; ! compatriot
+bayad Enclitic; ! compensation
+pannakaummong Enclitic; ! compilation
+reklamo Enclitic; ! complaint
+panangammo Enclitic; ! comprehension
+panangawat Enclitic; ! comprehension
+kadua Enclitic; ! comrade
+katalek Enclitic; ! comrade
+gayyem Enclitic; ! comrade
+kinatangig Enclitic; ! conceit
+pakinakem Enclitic; ! conceit
+agnginaw Enclitic; ! conceive child
+kulongan Enclitic; ! concentration
+panangipamaysa Enclitic; ! concentration
+kapununotan Enclitic; ! conception
+inaw Enclitic; ! conception
+panangawat Enclitic; ! conception
+gibusna Enclitic; ! conclusion
+tungpalna Enclitic; ! conclusion
+panagkakadua Enclitic; ! confederation
+purok Enclitic; ! conference
+taripnong Enclitic; ! conference
+konpesar Enclitic; ! confession
+panangisarita Enclitic; ! confession
+pangangipudno Enclitic; ! confession
+pammati Enclitic; ! confidence
+panagtalek Enclitic; ! confidence
+talek Enclitic; ! confidence
+talek Enclitic; ! confidence
+pammatalhed Enclitic; ! confirmation
+gulo Enclitic; ! confusion
+riribuk Enclitic; ! confusion
+panaglilinnipit Enclitic; ! congestion
+kongreso Enclitic; ! congress
+kongresista Enclitic; ! congressman
+representante Enclitic; ! congressman
+nayon Enclitic; ! connection
+panagsilpo Enclitic; ! connection
+nga Enclitic; ! connector word
+panagtunos Enclitic; ! connivance
+pannakitinnarus Enclitic; ! connivance
+nangabak Enclitic; ! conqueror
+nangatiw Enclitic; ! conqueror
+nangparmek Enclitic; ! conqueror
+panangabak Enclitic; ! conquest
+panangparmek Enclitic; ! conquest
+kapanunotan Enclitic; ! conscience
+nakem Enclitic; ! conscience
+rikna Enclitic; ! conscience
+panagkaykaysa Enclitic; ! consensus
+panagtunos Enclitic; ! consensus
+nagbanagan Enclitic; ! consequence
+panagpanunot Enclitic; ! consideration
+panangpanunot Enclitic; ! consideration
+liliwa Enclitic; ! consolation
+pangraragsak Enclitic; ! consolation
+pagalagadan Enclitic; ! constitution
+panangaramid Enclitic; ! construction
+panangipatakder Enclitic; ! construction
+pannakisao Enclitic; ! consultation
+gura Enclitic; ! contempt
+ibubusor Enclitic; ! contempt
+makitulag Enclitic; ! contractor
+sungani Enclitic; ! contradiction
+agtengtengngel Enclitic; ! controller
+agturay Enclitic; ! controller
+panagbinuosor Enclitic; ! controversy
+susik Enclitic; ! controversy
+konbension Enclitic; ! convention
+taripnong Enclitic; ! convention
+panagsarita Enclitic; ! conversation
+panagtungtong Enclitic; ! conversation
+panangidanon Enclitic; ! conveyance
+pammati Enclitic; ! conviction
+pannakapabasol Enclitic; ! conviction
+panagtitinulong Enclitic; ! cooperation
+kinapasig Enclitic; ! cordiality
+kinaragsak Enclitic; ! cordiality
+korporasion Enclitic; ! corporation
+bangkay Enclitic; ! corpse
+minatay Enclitic; ! corpse
+kataba Enclitic; ! corpulence
+kinalukmeg Enclitic; ! corpulence
+panagsinnurat Enclitic; ! correspondence
+sarita Enclitic; ! correspondence
+surat Enclitic; ! correspondence
+konseho Enclitic; ! council
+purok Enclitic; ! council
+away Enclitic; ! country
+bansa Enclitic; ! country
+taga-away Enclitic; ! country-people
+balasang Enclitic; ! countryside
+probinsia Enclitic; ! county
+pakinakem Enclitic; ! courage
+tured Enclitic; ! courage
+appit Enclitic; ! cousin
+kasin-sin Enclitic; ! cousin
+kasinsin Enclitic; ! cousin
+agakkub Enclitic; ! cover up
+natakrot Enclitic; ! coward
+takrot Enclitic; ! coward
+biskuit Enclitic; ! cracker
+galetas Enclitic; ! cracker
+mabistak Enclitic; ! crack in board
+agrittok Enclitic; ! crack knuckles
+aramid Enclitic; ! creation
+panagparsua Enclitic; ! creation
+ayup Enclitic; ! creature
+persus Enclitic; ! creature
+waig Enclitic; ! creek
+bettak Enclitic; ! crevice
+biri Enclitic; ! crevice
+lussok Enclitic; ! crevice
+basol Enclitic; ! crime
+dilaw Enclitic; ! criticism
+panangdilaw Enclitic; ! criticism
+buaya Enclitic; ! crocodile
+kinaranggas Enclitic; ! cruelty
+manarnar Enclitic; ! crushed bone
+kristal Enclitic; ! crystal
+pepino Enclitic; ! cucumber
+imburnal Enclitic; ! culvert
+bankera Enclitic; ! cupboard
+kuarta Enclitic; ! currency
+pirak Enclitic; ! currency
+adalen Enclitic; ! curriculum
+kurikulum Enclitic; ! curriculum
+alipugpog Enclitic; ! cyclone
+piangpiang Enclitic; ! cymbals
+manong Enclitic; ! dad
+tatang Enclitic; ! dad
+nakusim Enclitic; ! dainty eater
+paggatasan Enclitic; ! dairy
+babai Enclitic; ! dame
+balasang Enclitic; ! dame
+lunod Enclitic; ! damnation
+unget Enclitic; ! damnation
+Okinnana! Enclitic; ! Damn it!
+mannala Enclitic; ! dancer
+lasi Enclitic; ! dandruff
+peggad Enclitic; ! danger
+kinasipnget Enclitic; ! darkness
+singpet Enclitic; ! darkness
+sipnget Enclitic; ! darkness
+balasang Enclitic; ! daughter
+basang Enclitic; ! daughter
+adlaw Enclitic; ! day
+aldaw Enclitic; ! day
+araw Enclitic; ! day
+aglaklako Enclitic; ! dealer
+agbugsut Enclitic; ! death
+pannakatay Enclitic; ! death
+patay Enclitic; ! death
+utang Enclitic; ! debt
+panagibod Enclitic; ! deceit
+panangalilaw Enclitic; ! deceit
+Disiembre Enclitic; ! december
+keddeng Enclitic; ! decision
+pangngeddeng Enclitic; ! decision
+panagpalawag Enclitic; ! declaration
+idaton Enclitic; ! dedication
+iruknoy Enclitic; ! dedication
+pananglahip Enclitic; ! dedication
+kissay Enclitic; ! deduction
+aramid Enclitic; ! deed
+pammaneknek Enclitic; ! deed
+ugsa Enclitic; ! deer
+pammadpadakes Enclitic; ! defamation
+salakan Enclitic; ! defense
+salaknib Enclitic; ! defense
+gidkiat Enclitic; ! deference
+nabati Enclitic; ! deference
+pannakadadael Enclitic; ! deformity
+1/360 Enclitic; ! degree
+grado Enclitic; ! degree
+rukod Enclitic; ! degree
+tilulo Enclitic; ! degree
+ladlingit Enclitic; ! dejection
+pannakaupay Enclitic; ! dejection
+rigat Enclitic; ! dejection
+panagpasngay Enclitic; ! delivery
+panangisalakan Enclitic; ! delivery
+panangitulod Enclitic; ! delivery
+panangyawat Enclitic; ! delivery
+beddeng Enclitic; ! demarcation
+dulon Enclitic; ! demarcation
+demokrasia Enclitic; ! democracy
+panaglibak Enclitic; ! denial
+panagulbod Enclitic; ! denial
+benneg Enclitic; ! department
+departamento Enclitic; ! department
+estasion Enclitic; ! depot
+katawaan Enclitic; ! depride
+laisen Enclitic; ! depride
+rabaken Enclitic; ! depride
+karigatan Enclitic; ! deprivation
+panagsagaba Enclitic; ! deprivation
+kandalem Enclitic; ! depth
+kauneg Enclitic; ! depth
+gagar Enclitic; ! dertermination
+kinapinget Enclitic; ! dertermination
+tured Enclitic; ! dertermination
+panangiladawan Enclitic; ! description
+ahiladladawan Enclitic; ! designer
+modista Enclitic; ! designer
+lubilobi Enclitic; ! dessert
+panawan Enclitic; ! dessert
+destinio Enclitic; ! destination
+agrakrak Enclitic; ! destroy or ruin
+ipapatay Enclitic; ! destruction
+pannakadadael Enclitic; ! destruction
+agsisiim Enclitic; ! detective
+tiktik Enclitic; ! detective
+pannakaibalud Enclitic; ! detention
+pannakapasardeng Enclitic; ! detention
+pannakataktak Enclitic; ! detention
+kanalbuong Enclitic; ! detonation
+panangpapintas Enclitic; ! development
+panangpasayaat Enclitic; ! development
+pannakasukog Enclitic; ! development
+aramaten Enclitic; ! device
+pamuspusan Enclitic; ! device
+debosion Enclitic; ! devotion
+panagayat Enclitic; ! devotion
+panangi-pangpangruma Enclitic; ! devotion
+amor Enclitic; ! dew
+linnaaw Enclitic; ! dew
+kinalaing Enclitic; ! dexterity
+kinasaririt Enclitic; ! dexterity
+panangkita Enclitic; ! diagnosis
+pagsasao Enclitic; ! dialect
+pagsasarita Enclitic; ! dialect
+apuro Enclitic; ! diaper
+lamoin Enclitic; ! diaper
+agburis Enclitic; ! diarrhea
+kasuratan Enclitic; ! diary
+lukdit Enclitic; ! dick
+bilin Enclitic; ! dictation
+imbaga Enclitic; ! dictation
+imbaon Enclitic; ! dictation
+sinarita Enclitic; ! dictation
+diksionario Enclitic; ! dictionary
+dipperentia Enclitic; ! difference
+gidiat Enclitic; ! difference
+subang Enclitic; ! difference
+rikut Enclitic; ! difficulty
+rigat Enclitic; ! difficulty
+dayaw Enclitic; ! dignity
+tan-ok Enclitic; ! dignity
+parikut Enclitic; ! dilemma
+kinadilem Enclitic; ! dimness
+kinasipnget Enclitic; ! dimness
+pang-ngaldaw Enclitic; ! dinner
+pangrabii Enclitic; ! dinner
+isawsaw Enclitic; ! dip (like bread in coffee)
+direksion Enclitic; ! direction
+panangisuro Enclitic; ! direction
+aking-apuanan Enclitic; ! director
+mangimaton Enclitic; ! director
+mangisursuro Enclitic; ! director
+pangulo Enclitic; ! director
+kasuratan Enclitic; ! directory
+listaan Enclitic; ! directory
+pagsuratan Enclitic; ! directory
+daksanggasat Enclitic; ! disability
+agpukaw Enclitic; ! disapper
+pannakapaay Enclitic; ! disappointment
+pannakaupay Enclitic; ! disappointment
+didigra Enclitic; ! disaster
+riribuk Enclitic; ! disaster
+panangilatak Enclitic; ! disclosure
+pannakairakurak Enclitic; ! disclosure
+pannakanwaragawag Enclitic; ! disclosure
+pannakabirok Enclitic; ! discovery
+pannakabuktal Enclitic; ! discovery
+pagsaritaan Enclitic; ! discussion
+trataren Enclitic; ! discussion
+sakit Enclitic; ! disease
+tuko Enclitic; ! disease
+pannakapapanaw Enclitic; ! dismissal
+di-pagsunod Enclitic; ! disobedience
+pagsuway Enclitic; ! disobedience
+dasig Enclitic; ! disposal
+pagatayan Enclitic; ! disposal
+panangited Enclitic; ! disposal
+semsem Enclitic; ! disturbance
+donya Enclitic; ! diva
+pannakabingay-bingay Enclitic; ! divisibilty
+pannakaulaw Enclitic; ! dizziness
+ula Enclitic; ! dizziness
+ulaw Enclitic; ! dizziness
+doktrina Enclitic; ! doctrine
+pammati Enclitic; ! doctrine
+munieka Enclitic; ! doll
+munieka Enclitic; ! doll
+tirtiris Enclitic; ! doll
+kukua Enclitic; ! domain
+daga Enclitic; ! domain
+iturayan Enclitic; ! domain
+masaksakupan Enclitic; ! domain
+bubongan Enclitic; ! dome
+kukma Enclitic; ! dominion
+turay Enclitic; ! dominion
+ridaw Enclitic; ! door
+ruangan Enclitic; ! door
+serkan Enclitic; ! door
+alilawen Enclitic; ! double-cross
+pagtiliw Enclitic; ! dragnet
+pangsilo Enclitic; ! dragnet
+simotsimot Enclitic; ! dragonfly
+tuwato Enclitic; ! dragon fly
+tuwato Enclitic; ! dragonfly
+kali Enclitic; ! drainage
+kanal Enclitic; ! drainage
+pabuya Enclitic; ! drama
+sarsuela Enclitic; ! drama
+ahiladladawan Enclitic; ! drawer
+agdadait Enclitic; ! dressmaker
+tsoper Enclitic; ! driver
+kotsero Enclitic; ! driver
+ringngat Enclitic; ! drought
+botika Enclitic; ! drugstore
+mammartek Enclitic; ! drunkard
+manag-inom Enclitic; ! drunkard
+ahigaaw Enclitic; ! dry season
+kinni-kinni Enclitic; ! duck waddle
+kabayatanna Enclitic; ! duration
+panagpaut Enclitic; ! duration
+bayat Enclitic; ! during
+kabayatan Enclitic; ! during
+buis Enclitic; ! duty
+rebbengen Enclitic; ! duty
+pahigyanan Enclitic; ! dwelling place
+lapayag Enclitic; ! ear
+piditpidit Enclitic; ! earlobe
+naimas Enclitic; ! ear
+aritos Enclitic; ! earring
+aritos Enclitic; ! earrings
+lapayag Enclitic; ! ears
+ginghined Enclitic; ! earthquake
+gingined Enclitic; ! earthquake
+alumbayad Enclitic; ! earthworm
+panagsalimetmet Enclitic; ! economy
+liliwa Enclitic; ! ecstacy
+ragragsak Enclitic; ! ecstacy
+gudgod Enclitic; ! eczema
+bilin Enclitic; ! edict
+linteg Enclitic; ! edict
+editor Enclitic; ! editor
+adal Enclitic; ! education
+sursuro Enclitic; ! education
+maestro Enclitic; ! educator
+mahisursuro Enclitic; ! educator
+igat Enclitic; ! eel
+kinaimbag Enclitic; ! efficiency
+pigsa Enclitic; ! effort
+ladawan Enclitic; ! effulgence
+pintas Enclitic; ! effulgence
+raniag Enclitic; ! effulgence
+tarong Enclitic; ! eggplant
+kaka Enclitic; ! elder brother or sister
+panagpili Enclitic; ! election
+elektrisidad Enclitic; ! electricity
+elemento Enclitic; ! element
+kangato Enclitic; ! elevation
+kastiddog Enclitic; ! elongation
+wenno Enclitic; ! else
+panagmaymaysa Enclitic; ! emancipation
+panagwaywayas Enclitic; ! emancipation
+pannakaruk-at Enclitic; ! emancipation
+nabainan Enclitic; ! embarassed
+pannakapabalu Enclitic; ! embarassment
+taada Enclitic; ! emblem
+lapped Enclitic; ! emcumbrance
+pangdagsen Enclitic; ! emcumbrance
+gangganaet Enclitic; ! emigrant
+kinalaktak Enclitic; ! eminence
+maingel Enclitic; ! eminence
+rikna Enclitic; ! emotion
+emperador Enclitic; ! emperor
+pagarian Enclitic; ! empire
+empleado Enclitic; ! employee
+trabahador Enclitic; ! employee
+pagsapulan Enclitic; ! employment
+pagtrabahuan Enclitic; ! employment
+pagtahilakuan Enclitic; ! emporium
+koral Enclitic; ! enclosure
+nalawlaw Enclitic; ! enclosure
+panaganus Enclitic; ! endurance
+panahibtur Enclitic; ! endurance
+kabusor Enclitic; ! enemy
+kabusor Enclitic; ! enemy
+kabaelan Enclitic; ! energy
+pigsa Enclitic; ! energy
+panangipatungpal Enclitic; ! enforcement
+panangpasurot Enclitic; ! enforcement
+tulag Enclitic; ! engagement
+makina Enclitic; ! engine
+burburtia Enclitic; ! enigma
+panagragsak Enclitic; ! enjot
+panangrambak Enclitic; ! enjot
+pannagpakkdel Enclitic; ! enlargement
+pagliwliwaan Enclitic; ! entertainment
+ayat Enclitic; ! enthusiasm
+panangipateg Enclitic; ! enthusiasm
+ragsak Enclitic; ! enthusiasm
+panagpakpakaasi Enclitic; ! entreaty
+panagbibilang Enclitic; ! enumeration
+pananginagan Enclitic; ! enumeration
+kobering Enclitic; ! envelope
+sobre Enclitic; ! envelope
+aglawlaw Enclitic; ! environment
+kudil Enclitic; ! epidermis
+kapitulo Enclitic; ! episode
+paset Enclitic; ! episode
+pagbura Enclitic; ! eraser
+pagdalus Enclitic; ! eraser
+panmakadalus Enclitic; ! erasure
+pannakapunas Enclitic; ! erasure
+agkinod Enclitic; ! erection
+imptog Enclitic; ! erection
+banglo Enclitic; ! essence
+nag-uneg Enclitic; ! essence
+kukua Enclitic; ! estate
+daga Enclitic; ! estate
+panagtahikua Enclitic; ! estate
+panagmaga Enclitic; ! evaporation
+maaramid Enclitic; ! event
+pasamak Enclitic; ! event
+panangpaalis Enclitic; ! eviction
+panangpatalaw Enclitic; ! eviction
+panagdayaw Enclitic; ! exaltation
+panangingato Enclitic; ! exaltation
+examen Enclitic; ! examination
+subok Enclitic; ! examination
+mangkita Enclitic; ! examiner
+mangsubok Enclitic; ! examiner
+ehemplo Enclitic; ! example
+kaspagarigan Enclitic; ! example
+pagarigan Enclitic; ! example
+pagwadan Enclitic; ! example
+pangyarigan Enclitic; ! example
+tuladen Enclitic; ! example
+malaksid Enclitic; ! exception
+pannakalaksid Enclitic; ! exception
+maklaat Enclitic; ! excitement
+pannakakigtot Enclitic; ! excitement
+takki Enclitic; ! excrement
+kaadda Enclitic; ! existence
+panagbiag Enclitic; ! existence
+iyaadyo Enclitic; ! exodus
+panagruar Enclitic; ! exodus
+namnama Enclitic; ! expectation
+segga Enclitic; ! expectation
+panagbaniaga Enclitic; ! expedition
+gibus Enclitic; ! expiration
+ipapatay Enclitic; ! expiration
+pannakapugsat Enclitic; ! expiration
+kalawa Enclitic; ! extent
+kantiddog Enclitic; ! extent
+kiday Enclitic; ! eyebrow
+kiday-kiday Enclitic; ! eyebrow
+kurimatmat Enclitic; ! eyelash
+kurimatmat Enclitic; ! eyelash
+abel Enclitic; ! fabric
+panagaramid Enclitic; ! fabrication
+pinarpartuat Enclitic; ! fabrication
+lupot Enclitic; ! fabric
+kinalaka Enclitic; ! facility
+kinasayud Enclitic; ! facility
+pabrika Enclitic; ! factory
+pagpartuatan Enclitic; ! factory
+mamaestro Enclitic; ! faculty
+pannakaabak Enclitic; ! failure
+pannakatnag Enclitic; ! failure
+enkantado Enclitic; ! fairy
+kinapudno Enclitic; ! faithfulness
+pammati Enclitic; ! faith
+pammuti Enclitic; ! faith
+talek Enclitic; ! faith
+kablaawen Enclitic; ! falicitate
+rukban Enclitic; ! falicitate
+nabual Enclitic; ! fall at roots
+dayaw Enclitic; ! fame
+kaamaan Enclitic; ! family
+kaman Enclitic; ! family
+pamilia Enclitic; ! family
+nagannak Enclitic; ! family
+pamilya Enclitic; ! family
+bisin Enclitic; ! famine
+rigat Enclitic; ! famine
+pakada Enclitic; ! farewell
+mannalon Enclitic; ! farmer
+pannakaawis Enclitic; ! fascination
+pannakaliwliwa Enclitic; ! fascination
+gripo Enclitic; ! faucet
+pannakabalin Enclitic; ! feasibility
+kabaelan Enclitic; ! feat
+nadutdot Enclitic; ! feathey
+nalamuyot Enclitic; ! feathey
+Febrero Enclitic; ! february
+takki Enclitic; ! feces
+saksaka Enclitic; ! feet
+pako Enclitic; ! fern
+alaen Enclitic; ! festivity
+bunahen Enclitic; ! festivity
+anting-anting Enclitic; ! fetish
+laing Enclitic; ! fetish
+gurigor Enclitic; ! fever
+panagtalek Enclitic; ! fidelity
+agsisilim Enclitic; ! fifth-column
+espia Enclitic; ! fifth-column
+baliti Enclitic; ! fig tree
+sinan-tao Enclitic; ! figurehead
+ruhit Enclitic; ! filth
+kapitalista Enclitic; ! finacier
+mangibusbos Enclitic; ! finacier
+koko Enclitic; ! fingernail
+kuko Enclitic; ! fingernail
+aluten Enclitic; ! firebrand
+beggang Enclitic; ! firebrand
+kulalanti Enclitic; ! firefly
+bombero Enclitic; ! fireman
+kayo Enclitic; ! firewood
+sungrod Enclitic; ! firewood
+katangken Enclitic; ! firmness
+katikber Enclitic; ! firmness
+mangngalap Enclitic; ! fisherman
+pagkalapan Enclitic; ! fishery
+gemhem Enclitic; ! fist
+arkos Enclitic; ! fittings
+pannaka-urnos Enclitic; ! fittings
+kasapulan Enclitic; ! fixture
+sab-it Enclitic; ! fixture
+bumbilia Enclitic; ! flashlight
+bukarelyo Enclitic; ! flat coconut
+timel Enclitic; ! flea
+kalaban Enclitic; ! foe
+kanusor Enclitic; ! foe
+bulbulong Enclitic; ! foliage
+tattao Enclitic; ! folks
+adipen Enclitic; ! follower
+pasurot Enclitic; ! follower
+biddut Enclitic; ! folly
+kinaalikuteg Enclitic; ! folly
+panangipateg Enclitic; ! fondness
+pannakairuam Enclitic; ! fondness
+kanen Enclitic; ! food
+makan Enclitic; ! food
+taraon Enclitic; ! food
+tarson Enclitic; ! food
+entablado Enclitic; ! footlights
+pagbuyaan Enclitic; ! footlights
+bulos Enclitic; ! foot-loose
+nakaragut Enclitic; ! foot-loose
+addang Enclitic; ! footstep
+tugot Enclitic; ! footsteps
+agpaay Enclitic; ! for
+anus Enclitic; ! forbearance
+muhing Enclitic; ! forehead
+gangannaet Enclitic; ! foreigner
+kapatas Enclitic; ! foreman
+agpuor Enclitic; ! forest fire
+mapuor Enclitic; ! forest fire
+mannulad Enclitic; ! forger
+nalipatan Enclitic; ! forgiveness
+pammakawan Enclitic; ! forgiveness
+maipanghep Enclitic; ! for
+padak Enclitic; ! for
+adihi Enclitic; ! foundation
+pagbatayan Enclitic; ! foundation
+pangrugyan Enclitic; ! foundation
+burayok Enclitic; ! fountain
+ubbog Enclitic; ! fountain
+uppatan Enclitic; ! foursome
+bangló Enclitic; ! fragrance
+kinabatad Enclitic; ! frankness
+gimong Enclitic; ! fraternity
+panagkusit Enclitic; ! fraud
+waywaya Enclitic; ! freedom
+panagmauyong Enclitic; ! frenzy
+pannakasinga Enclitic; ! frenzy
+Viernes Enclitic; ! friday
+kinirug Enclitic; ! fried rice
+nagayyem Enclitic; ! friended
+gayem Enclitic; ! friend
+gayyem Enclitic; ! friend
+nadikket Enclitic; ! friends
+tukak Enclitic; ! frog general name
+naggapu Enclitic; ! from
+nagtaud Enclitic; ! from
+Taga-ano-(ka?) Enclitic; ! From where (are you?)
+kinasalimetmet Enclitic; ! frugality
+pannakaaramid Enclitic; ! fulfillment
+pannakatungpal Enclitic; ! fulfillment
+angaw Enclitic; ! fun
+pannakaipumpon Enclitic; ! funeral
+pumpon Enclitic; ! funeral
+buot Enclitic; ! fungus
+rabak Enclitic; ! fun
+ragragsak Enclitic; ! fun
+alikamen Enclitic; ! furniture
+muebles Enclitic; ! furniture
+panangituloy Enclitic; ! furtherance
+pungtot Enclitic; ! fury
+rungsot Enclitic; ! fury
+panaglaok Enclitic; ! fusion
+panagmaymaysa Enclitic; ! fusion
+ariwanas Enclitic; ! galaxy
+alawig Enclitic; ! gale
+galera Enclitic; ! gallery
+pagbuyaan Enclitic; ! gallery
+pahipabuyaan Enclitic; ! gallery
+galon Enclitic; ! gallon
+rangtay Enclitic; ! gangplank
+talaytayan Enclitic; ! gangplank
+ruhit Enclitic; ! garbage
+ruot Enclitic; ! garbage
+rosal Enclitic; ! gardenia
+bawang Enclitic; ! garlic
+gameng Enclitic; ! gem
+animales Enclitic; ! general term
+kaputotan Enclitic; ! generation
+masirib Enclitic; ! genius
+geograpia Enclitic; ! geography
+kagaw Enclitic; ! germ
+lumuklukmeg Enclitic; ! getting fatter
+kumotkottong Enclitic; ! getting thinner
+bumangon Enclitic; ! get up
+asang Enclitic; ! gill
+asang Enclitic; ! girl
+babai Enclitic; ! girl
+kaayanayat Enclitic; ! girl
+nubia Enclitic; ! girl friend
+syota Enclitic; ! girlfriend
+nobia Enclitic; ! girl
+anag Enclitic; ! gist
+dagup Enclitic; ! gist
+ayat Enclitic; ! gladness
+ragsak Enclitic; ! gladness
+rambak Enclitic; ! gladness
+ragsak Enclitic; ! glee
+langeb Enclitic; ! gloom
+sipnget Enclitic; ! gloom
+guantis Enclitic; ! gloves
+arsaab Enclitic; ! glutton
+bukatot Enclitic; ! glutton
+rawet Enclitic; ! glutton
+tupden Enclitic; ! goal
+kalding Enclitic; ! goat
+kalding Enclitic; ! goat
+diosa Enclitic; ! goddess
+Dios Enclitic; ! god
+platero Enclitic; ! goldsmith
+pakada Enclitic; ! good-bye
+sihe Enclitic; ! goodbye
+napintas Enclitic; ! good looking
+ayat Enclitic; ! goodness
+sayaat Enclitic; ! goodness
+sungar Enclitic; ! goose bumps
+bukatot Enclitic; ! gormand
+rawet Enclitic; ! gormand
+ebangelio Enclitic; ! gospel
+mannanao Enclitic; ! gossiper
+gobernador Enclitic; ! government
+gobierno Enclitic; ! government
+gramatika Enclitic; ! grammar
+apo Enclitic; ! granddaughter
+kinadakkel Enclitic; ! grandeur
+apo Enclitic; ! grandfather
+lakay Enclitic; ! grandfather
+lelong Enclitic; ! grandfather
+lolo Enclitic; ! grandfather
+tatay Enclitic; ! grandfather
+lola Enclitic; ! grandma
+lelang Enclitic; ! grandmother
+lola Enclitic; ! grandmother
+nanay Enclitic; ! grandmother
+lol Enclitic; ! grandpa
+lolo Enclitic; ! grandpa
+apo Enclitic; ! grandparent
+apo-ko Enclitic; ! grandson
+dakil Enclitic; ! grandson
+ubas Enclitic; ! grape
+ubas Enclitic; ! grape
+dudon Enclitic; ! grasshopper
+pahigadan Enclitic; ! grater
+supapak Enclitic; ! gratitude
+yaman Enclitic; ! gratitude
+dagsen Enclitic; ! gravity
+pigsa Enclitic; ! gravity
+kinamaingel Enclitic; ! greatness
+bartin Enclitic; ! green snake
+panal Enclitic; ! grey bird
+uban Enclitic; ! grey hair
+panagladingit Enclitic; ! grief
+rigat Enclitic; ! grief
+almiris Enclitic; ! grinder
+gilingan Enclitic; ! grinder
+kakaykaywan Enclitic; ! grove
+idadakkel Enclitic; ! growth
+panagtubo Enclitic; ! growth
+sangaili Enclitic; ! guest
+timpuyog Enclitic; ! guild
+panangalilaw Enclitic; ! guile
+panangawis Enclitic; ! guile
+panangayayo Enclitic; ! guile
+basol Enclitic; ! guilt
+maskara Enclitic; ! guise
+kutibeng Enclitic; ! guitar
+gitara Enclitic; ! guitar
+pul-oy Enclitic; ! gust
+manggagamud Enclitic; ! hag
+alipuspus Enclitic; ! hair
+bo-ok Enclitic; ! hair
+buok Enclitic; ! hair
+agpukis Enclitic; ! haircut
+agkulkulot Enclitic; ! hairdresser
+uban Enclitic; ! hair
+medyo Enclitic; ! half way
+agmauyong Enclitic; ! half-wit
+maag Enclitic; ! half-wit
+salas Enclitic; ! hall
+duyan Enclitic; ! hammock
+indayon Enclitic; ! hammock
+indayun Enclitic; ! hammock
+sangarakem Enclitic; ! handful
+panio Enclitic; ! handkerchief
+panio Enclitic; ! handkerchief
+paniolito Enclitic; ! handkerchief
+sabitan Enclitic; ! hanger
+kinaragsak Enclitic; ! happiness
+panagrigat Enclitic; ! hardship
+panagtuok Enclitic; ! hardship
+marigatan Enclitic; ! hard-up
+panagkinawatan Enclitic; ! harmony
+panagtunos Enclitic; ! harmony
+bukatot Enclitic; ! harvester
+sigud Enclitic; ! has been
+partak Enclitic; ! haste
+pungtot Enclitic; ! hatred
+simbron Enclitic; ! hatred
+suron Enclitic; ! hatred
+kongkong Enclitic; ! hawklike
+mangabuyo Enclitic; ! hawklike
+baridbid Enclitic; ! headband
+koto Enclitic; ! head louse
+salun-at Enclitic; ! health
+puso Enclitic; ! heart
+bugas Enclitic; ! heartwood
+langit Enclitic; ! heaven
+ngato Enclitic; ! heaven
+mukod Enclitic; ! heel (of foot)
+kangato Enclitic; ! height
+katayag Enclitic; ! height
+ti-agtawid Enclitic; ! heir
+isu Enclitic; ! he
+isuna Enclitic; ! he
+managdakes Enclitic; ! hell-cat
+manggagamud Enclitic; ! hell-cat
+inpierno Enclitic; ! hell
+hoy Enclitic; ! hello
+kadua Enclitic; ! henchman
+katulongan Enclitic; ! henchman
+pamusian Enclitic; ! hen
+pangen Enclitic; ! herd n.
+tuwid Enclitic; ! heritage
+busingar Enclitic; ! hernia
+letteg Enclitic; ! hernia
+banuar Enclitic; ! hero
+banwar Enclitic; ! hero
+kurad Enclitic; ! herpes
+gatel Enclitic; ! herpes
+panagduadua Enclitic; ! hesitation
+panagpannuray Enclitic; ! hesitation
+nalaing Enclitic; ! higbrow
+nangato Enclitic; ! higbrow
+kalsada Enclitic; ! highway
+dalan Enclitic; ! highway
+bunton Enclitic; ! hillock
+putan Enclitic; ! hilt
+katengngaab Enclitic; ! hinterland
+siket Enclitic; ! hips
+kaaya-aya Enclitic; ! hobby
+paggagamgam Enclitic; ! hobby
+ahig-ighem Enclitic; ! holder
+butbut Enclitic; ! hole in
+leksion Enclitic; ! homework
+pangen Enclitic; ! horde
+amak Enclitic; ! horror
+buteng Enclitic; ! horror
+maronggay Enclitic; ! horseradish
+hospital Enclitic; ! hospital
+pagagasan Enclitic; ! hospital
+hotel Enclitic; ! hotel
+pagdagusan Enclitic; ! hotel
+oras Enclitic; ! hour
+ngilaw Enclitic; ! house fly
+kaamaan Enclitic; ! household
+kabbalay Enclitic; ! household
+abong Enclitic; ! hovel
+kalapaw Enclitic; ! hovel
+kasano Enclitic; ! how
+kas-ano Enclitic; ! how
+Kasano? Enclitic; ! How?
+mano Enclitic; ! how
+Sagmamano? Enclitic; ! How much for one?
+tao Enclitic; ! human being
+kinatao Enclitic; ! humanity
+sorbetes Enclitic; ! ice crem
+panunot Enclitic; ! idea
+panagbahi Enclitic; ! identity
+ilasin Enclitic; ! idiom
+laglag Enclitic; ! idiot
+kinasadut Enclitic; ! idleness
+panagbayanggudaw Enclitic; ! idleness
+pagrukbaban Enclitic; ! idol
+sasanto Enclitic; ! idol
+kung Enclitic; ! if
+no Enclitic; ! if
+pakaibabainan Enclitic; ! ignominy
+pannakaibabain Enclitic; ! ignominy
+banias Enclitic; ! iguana
+ladawan Enclitic; ! illustration
+palawag Enclitic; ! illustration
+arapaap Enclitic; ! imagination
+ganggannaet Enclitic; ! immigrant
+pannakailaksid Enclitic; ! immunity
+pannakailisi Enclitic; ! immunity
+pannakaisalakan Enclitic; ! immunity
+abbeng Enclitic; ! impediment
+lapped Enclitic; ! impediment
+tubeng Enclitic; ! impediment
+naalikuteg Enclitic; ! imp
+kinapateg Enclitic; ! importance
+nasken Enclitic; ! importance
+panangipamatmat Enclitic; ! impression
+panangiparikna Enclitic; ! impression
+panagpaimbag Enclitic; ! improvement
+panangpasayaat Enclitic; ! improvement
+panangipagarup Enclitic; ! imputation
+panangipato Enclitic; ! imputation
+panahiray Enclitic; ! inclination
+mapastrek Enclitic; ! income
+suledo Enclitic; ! income
+panagmaymaysa Enclitic; ! independence
+wayawaya Enclitic; ! independence
+marka Enclitic; ! indication
+pahilasinan Enclitic; ! indication
+tanda Enclitic; ! indication
+pungtot Enclitic; ! indignation
+rurod Enclitic; ! indignation
+suron Enclitic; ! indignation
+awis Enclitic; ! inducement
+sulisog Enclitic; ! inducement
+pagpartuatan Enclitic; ! industry
+pagsapulan Enclitic; ! industry
+maladaga Enclitic; ! infant
+tahibi Enclitic; ! infant
+ubbing Enclitic; ! infant
+panangipagarup Enclitic; ! inference
+panangipato Enclitic; ! inference
+agtataeng Enclitic; ! inhabitant
+umili Enclitic; ! inhabitant
+dunor Enclitic; ! injury
+sugat Enclitic; ! injury
+agtaeng Enclitic; ! inmate
+balud Enclitic; ! inmate
+laman-loob Enclitic; ! innards
+kinadalus Enclitic; ! innocence
+insekto Enclitic; ! insect
+panangimatan Enclitic; ! inspection
+panangkita Enclitic; ! inspection
+inspektor Enclitic; ! inspector
+mangusig Enclitic; ! inspector
+bang-ar Enclitic; ! inspiration
+liwliwa Enclitic; ! inspiration
+tunda Enclitic; ! inspiration
+pagadalan Enclitic; ! institution
+pagsursuruan Enclitic; ! institution
+pasdek Enclitic; ! institution
+bilin Enclitic; ! instruction
+panangisuro Enclitic; ! instruction
+seguro Enclitic; ! insurance
+talhed Enclitic; ! insurance
+katapatan Enclitic; ! integrity
+saririt Enclitic; ! intelligence
+gandat Enclitic; ! intention
+panghep Enclitic; ! intention
+manangitarus Enclitic; ! interpreter
+manangiyulog Enclitic; ! interpreter
+baet Enclitic; ! interval
+bahis Enclitic; ! intestine
+bituka Enclitic; ! intestines
+iti Enclitic; ! into
+pannakabartek Enclitic; ! intoxication
+managpartuat Enclitic; ! inventor
+awis Enclitic; ! invitation
+gura Enclitic; ! ire
+rurod Enclitic; ! ire
+padanom Enclitic; ! irrigation
+pasayak Enclitic; ! irrigation
+isla Enclitic; ! island
+puro Enclitic; ! island
+panagmaymaysa Enclitic; ! isolation
+pannakalputong Enclitic; ! isolation
+pannakairuar Enclitic; ! issuance
+pannangted Enclitic; ! issuance
+budo Enclitic; ! itchy hairs of caterpillar
+dayta Enclitic; ! it
+isu Enclitic; ! it
+kukuana Enclitic; ! its
+kenkuana Enclitic; ! its
+anangka Enclitic; ! jackfruit
+Enero Enclitic; ! january
+anabaab Enclitic; ! jargon
+pagsasao Enclitic; ! jargon
+longboy Enclitic; ! java plum
+ilem Enclitic; ! jealousy
+imon Enclitic; ! jealousy
+mag-aalahas Enclitic; ! jeweler
+Judio Enclitic; ! jew
+hinete Enclitic; ! jockery
+pangngeddeng Enclitic; ! judgement
+keddeng Enclitic; ! judgment
+tubbog Enclitic; ! juice
+Julio Enclitic; ! july
+nagsabatan Enclitic; ! junction
+Junio Enclitic; ! june
+bakir Enclitic; ! jungle
+kabakiran Enclitic; ! jungle
+ibahian Enclitic; ! jurisdiction
+sakup Enclitic; ! jurisdiction
+turayen Enclitic; ! jurisdiction
+hustisia Enclitic; ! justice
+linteg Enclitic; ! justice
+kaapapan-(na) Enclitic; ! just left (he/she)
+saluyot Enclitic; ! jute
+kapasanglay Enclitic; ! kapok
+kapasanglay Enclitic; ! kapok
+agbambantay Enclitic; ! keeper
+ahidulin Enclitic; ! keeper
+pakalaglahipan Enclitic; ! keepsake
+abbong Enclitic; ! kerchief
+panio Enclitic; ! kerchief
+gas Enclitic; ! kerosene
+petroleo Enclitic; ! kerosene
+kardero Enclitic; ! kettle
+kaldero Enclitic; ! kettle
+takuri Enclitic; ! kettle
+bato Enclitic; ! kidney
+agpalennek Enclitic; ! kill time
+ari Enclitic; ! king
+pagarian Enclitic; ! kingdom
+salaksak Enclitic; ! kingfisher
+kosina Enclitic; ! kitchen
+paglutuan Enclitic; ! kitchen
+tumeng Enclitic; ! knee
+adal Enclitic; ! knowledge
+kaamwan Enclitic; ! knowledge
+sursuro Enclitic; ! knowledge
+boko Enclitic; ! knuckle (or bamboo knuckle)
+mangmanghed Enclitic; ! laborer
+baro Enclitic; ! lad
+aklo Enclitic; ! laddle
+pagtako Enclitic; ! laddle
+ubbing Enclitic; ! lad
+dan-aw Enclitic; ! lagoon
+danao Enclitic; ! lake
+dan-aw Enclitic; ! lake
+lawa Enclitic; ! lake
+panagladingit Enclitic; ! lamentation
+kingki Enclitic; ! lamp
+pagsilawan Enclitic; ! lamp
+pagsasao Enclitic; ! language
+pagsasarita Enclitic; ! language
+sao Enclitic; ! language
+pag-silawan Enclitic; ! lantern
+silawan Enclitic; ! lantern
+panagbirkug Enclitic; ! larcency
+panagtakaw Enclitic; ! larcency
+bannog Enclitic; ! lassitude
+katawa Enclitic; ! laughter
+garakgak Enclitic; ! laughter
+nagkatkatawa Enclitic; ! laughter
+labandera Enclitic; ! laundress
+laba Enclitic; ! laundry
+pagbugguan Enclitic; ! lavatory
+linteg Enclitic; ! law
+karuotan Enclitic; ! lawn
+abogado Enclitic; ! lawyer
+mangilinlinteg Enclitic; ! lawyer
+naderep Enclitic; ! leacherous
+hepe Enclitic; ! leader
+lider Enclitic; ! leader
+pangulo Enclitic; ! leader
+sawaw Enclitic; ! leakage
+ipatawid Enclitic; ! legacy
+tawid Enclitic; ! legacy
+sarita Enclitic; ! legend
+tanda Enclitic; ! legend
+gurong Enclitic; ! leg
+lehislatura Enclitic; ! legislature
+hustisia Enclitic; ! legitimacy
+kalamansi Enclitic; ! lemon
+dalayap Enclitic; ! lemon
+kalamansi Enclitic; ! lemon
+lemon Enclitic; ! lemon
+kaatidug Enclitic; ! length
+leksion Enclitic; ! lesson
+Maki-kuyog-ta Enclitic; ! Let’s go together
+Agragsak-tayo Enclitic; ! Let’s rejoice
+Makitrabaho-ta Enclitic; ! Let’s work together
+letsugas Enclitic; ! lettuce
+tambak Enclitic; ! levee
+utang Enclitic; ! liability
+ulbod Enclitic; ! liar
+wayawaya Enclitic; ! liberty
+ottog/arem Enclitic; ! libido
+uttog Enclitic; ! libido
+biblioteka Enclitic; ! library
+ahidda Enclitic; ! lie down
+maki-idda Enclitic; ! lie down together
+agdata Enclitic; ! lie on back
+agsikig Enclitic; ! lie on side
+teniente Enclitic; ! lieutenant
+biag Enclitic; ! life
+bagoten Enclitic; ! lift kamote vine
+agsinga Enclitic; ! light a lamp
+agsendi Enclitic; ! light cigarette
+sílaw-taaw Enclitic; ! lighthouse
+kimat Enclitic; ! lightning
+nalag-an Enclitic; ! light weight
+kastoy Enclitic; ! like this
+gurong Enclitic; ! limb
+raniag Enclitic; ! limelight
+sinamar Enclitic; ! limelight
+kaman Enclitic; ! lineage
+nagtuadan Enclitic; ! lineage
+dehilo Enclitic; ! linen
+linen Enclitic; ! linen
+leon Enclitic; ! lion
+bibig Enclitic; ! lip
+bibig Enclitic; ! lips
+panagdanum Enclitic; ! liquidation
+arak Enclitic; ! liquor
+arak Enclitic; ! liquor
+literatura Enclitic; ! literature
+panagbiag Enclitic; ! livelihood
+alibut Enclitic; ! lizard
+alutiit Enclitic; ! lizard house
+saltek Enclitic; ! lizard voice
+kasasaad Enclitic; ! location
+pagbuludan Enclitic; ! lock-up
+pagdagusen Enclitic; ! lodging place
+panangipalawag Enclitic; ! logic
+kuto Enclitic; ! louse
+agay-ayat Enclitic; ! lover
+kaayan-ayat Enclitic; ! lover
+kinapudno Enclitic; ! loyalty
+gasat Enclitic; ! luck
+duayya Enclitic; ! lullaby
+bara Enclitic; ! lung
+raniag Enclitic; ! luster
+rimat Enclitic; ! luster
+sileng Enclitic; ! luster
+salsalamahi Enclitic; ! lymph gland
+buneng Enclitic; ! machete
+makinaria Enclitic; ! machinery
+makinista Enclitic; ! machinist n.
+magasine Enclitic; ! magazine
+tiendaan Enclitic; ! magazine
+salamangkero Enclitic; ! magician
+mahistrado Enclitic; ! magistrate
+ukom Enclitic; ! magistrate
+batombalani Enclitic; ! magnate
+babai Enclitic; ! maid
+pagsadagan Enclitic; ! mainstay
+segkat Enclitic; ! mainstay
+panangituloy Enclitic; ! maintenance
+salaknib Enclitic; ! maintenance
+kinatan-ok Enclitic; ! majesty
+kaaduan Enclitic; ! majority
+agar-aramid Enclitic; ! maker
+kababalin Enclitic; ! make-up
+pagpapintas Enclitic; ! make-up
+urnos Enclitic; ! make-up
+lunod Enclitic; ! malediction
+kriminal Enclitic; ! malefactor
+managbasol Enclitic; ! malefactor
+suso Enclitic; ! mammary gland
+mangimaton Enclitic; ! manager
+mangiturong Enclitic; ! manager
+manga Enclitic; ! mango
+mangga Enclitic; ! mango
+kababalin Enclitic; ! manners
+sursuro Enclitic; ! manners
+agar-aramid Enclitic; ! manufacturer
+grabi Enclitic; ! many many
+ihid Enclitic; ! margin
+iking Enclitic; ! margin
+kasar Enclitic; ! marriage
+panagkasar Enclitic; ! marriage
+masonero Enclitic; ! mason n.
+nasanikua Enclitic; ! material wealth
+arpaw Enclitic; ! mattress
+kultson Enclitic; ! mattress
+pagsasao Enclitic; ! maxim
+prberbio Enclitic; ! maxim
+alkalde Enclitic; ! mayor
+mayor Enclitic; ! mayor
+panagsiddaaw Enclitic; ! maze
+karuotan Enclitic; ! meadow
+kanen Enclitic; ! meal
+ulam Enclitic; ! meal
+kamoras Enclitic; ! measles
+tuko Enclitic; ! measles
+karne Enclitic; ! meat
+dinardaraan Enclitic; ! meat
+karne Enclitic; ! meat
+lasag Enclitic; ! meat
+naranggas Enclitic; ! meciless
+medala Enclitic; ! medal
+panagpanunot Enclitic; ! meditation
+aweng Enclitic; ! melody
+ayug Enclitic; ! melody
+melodia Enclitic; ! melody
+musika Enclitic; ! melody
+pagdaagupan Enclitic; ! melting pot
+kameng Enclitic; ! member
+panagkameng Enclitic; ! membership
+pakalaglahipan Enclitic; ! memorial
+lahip Enclitic; ! memory
+agtagtahilako Enclitic; ! merchant
+asi Enclitic; ! mercy
+ayat Enclitic; ! mercy
+panaglaok Enclitic; ! merger
+pangtitipon Enclitic; ! merger
+siak Enclitic; ! me
+panangtulad Enclitic; ! metaphor
+panangyarig Enclitic; ! metaphor
+pamay-an Enclitic; ! method
+panagaramid Enclitic; ! method
+let-ang Enclitic; ! midst
+tengnga Enclitic; ! midst
+mangngilot Enclitic; ! midwife
+partera Enclitic; ! midwife
+kawatiwat Enclitic; ! mileage
+mila Enclitic; ! mile
+bangos Enclitic; ! milkfish
+gumihiling Enclitic; ! miller
+baknang Enclitic; ! millionaire
+milonario Enclitic; ! millionaire
+diken-diken Enclitic; ! millipede
+minero Enclitic; ! miner
+bassit Enclitic; ! miniature adj.
+milagro Enclitic; ! miracle
+rago Enclitic; ! mirth
+ragsak Enclitic; ! mirth
+kinaranggas Enclitic; ! mischief
+kinaulpit Enclitic; ! mischief
+nakakaasi Enclitic; ! miserabel
+napanglaw Enclitic; ! miserabel
+misyon Enclitic; ! mission
+eskuela Enclitic; ! mistress
+panaglaok Enclitic; ! mixture
+panagtipon Enclitic; ! mixture
+panagguyab Enclitic; ! mockery
+pananglais Enclitic; ! mockery
+kabarbaro Enclitic; ! moderistic
+ugali Enclitic; ! mode
+wagas Enclitic; ! mode
+panagpabaro Enclitic; ! modification
+kaabasa Enclitic; ! moisture
+danum Enclitic; ! moisture
+ararawan Enclitic; ! mole cricket
+siding Enclitic; ! mole
+kanito Enclitic; ! moment
+agturay Enclitic; ! monarch
+ari Enclitic; ! monarch
+monarka Enclitic; ! monarch
+emperador Enclitic; ! monarchy
+Lunes Enclitic; ! monday
+kuarta Enclitic; ! money
+kuarta Enclitic; ! money
+kwarta Enclitic; ! money
+pirak Enclitic; ! money
+apo Enclitic; ! monsieur
+panagdayaw Enclitic; ! monsieur
+bulan Enclitic; ! month
+monumento Enclitic; ! monument
+kasasaad Enclitic; ! mood
+rikna Enclitic; ! mood
+agsapa Enclitic; ! morning
+bigat Enclitic; ! morning
+bigat Enclitic; ! morrow
+lamok Enclitic; ! mosquito
+lamok Enclitic; ! mosquito
+moskitero Enclitic; ! mosquito net
+lumot Enclitic; ! moss
+kapintasen Enclitic; ! most beautiful
+karegaten Enclitic; ! most difficult
+simotsimot Enclitic; ! moth
+pagsasao Enclitic; ! motto
+repran Enclitic; ! motto
+bantay Enclitic; ! mountain
+bundok Enclitic; ! mountain
+sangkasakmal Enclitic; ! mouthful
+pannakangiwat Enclitic; ! mouthpiece
+pinagkakadua Enclitic; ! movement
+tignay Enclitic; ! movement
+sine Enclitic; ! moving picture
+buteg Enclitic; ! mucus
+dalag Enclitic; ! mudfish
+paltat Enclitic; ! mudfish
+talimusak Enclitic; ! mud-skipper
+kaaduan Enclitic; ! multitude
+ummong Enclitic; ! multitude
+baranggay Enclitic; ! municipality
+museum Enclitic; ! museum
+ayug Enclitic; ! music
+musika Enclitic; ! music
+tukar Enclitic; ! music
+barbas Enclitic; ! mustache
+kukuak Enclitic; ! my
+siak Enclitic; ! myself
+datdatlag Enclitic; ! mystery
+serbileta Enclitic; ! napkin
+palawag Enclitic; ! narration
+sarita Enclitic; ! narration
+pahilian Enclitic; ! nation
+law-ang Enclitic; ! nature
+kaawan Enclitic; ! naught
+pananakaawan Enclitic; ! naught
+puseg Enclitic; ! navel
+armada Enclitic; ! navy
+kasapulan Enclitic; ! necessity
+kuentas Enclitic; ! necklace
+kuentas Enclitic; ! necklace
+korbata Enclitic; ! necktie
+saritaan Enclitic; ! negotiations
+ilako Enclitic; ! negotiative
+lumasat Enclitic; ! negotiative
+purok Enclitic; ! neighborhood
+agdadamo Enclitic; ! neophyte
+kaanakan Enclitic; ! nephew
+damag Enclitic; ! news
+pahiwarnak Enclitic; ! newspaper
+pahiwarnak Enclitic; ! newspaper
+takem Enclitic; ! niche
+naimut Enclitic; ! niggard
+nainut Enclitic; ! niggard
+saksakulap Enclitic; ! night bird
+gabi Enclitic; ! night
+kulipato Enclitic; ! night hawk
+rabii Enclitic; ! night
+saksakulap Enclitic; ! night
+mungay Enclitic; ! nipple
+suso Enclitic; ! nipple
+buko Enclitic; ! node
+nalimpia Enclitic; ! no holes
+pannakainagan Enclitic; ! nomination
+kandidato Enclitic; ! nominee
+nainaganan Enclitic; ! nominee
+papili Enclitic; ! nominee
+naibus Enclitic; ! no more
+kinamaag Enclitic; ! nonesense
+agmatuon Enclitic; ! noon
+aldaw Enclitic; ! noon
+wenno Enclitic; ! nor
+agdaringongo Enclitic; ! nosebleed
+maimatangan Enclitic; ! noticable
+pagarup Enclitic; ! notion
+panunot Enclitic; ! notion
+Paltos Enclitic; ! Not really
+banag Enclitic; ! noun
+taraon Enclitic; ! nourishment
+Nobiembre Enclitic; ! november
+agdadamo Enclitic; ! novice
+baro Enclitic; ! novice
+kalakyan Enclitic; ! nuang calf
+kasig Enclitic; ! nuang cart
+kulba Enclitic; ! nuang cart
+palatiwan Enclitic; ! nuang cart
+surelas Enclitic; ! nuang cart
+gethet Enclitic; ! nuang
+korkoridong Enclitic; ! nuang
+agmaya Enclitic; ! nuang mate
+agmaya Enclitic; ! nuang mate to
+pumanakpak Enclitic; ! nuang
+agngoak Enclitic; ! nuang voice
+lubnak Enclitic; ! nuang wallow
+monha Enclitic; ! nun
+pagtaraknan Enclitic; ! nursery
+naanag Enclitic; ! nurtitiious
+panangtaraon Enclitic; ! nutrition
+enkantado Enclitic; ! nymph
+gaod Enclitic; ! oar
+kari Enclitic; ! oath
+panagkari Enclitic; ! oath
+panagtungpal Enclitic; ! obedience
+panangsupiat Enclitic; ! objection
+karbengan Enclitic; ! obligation
+rebbengen Enclitic; ! obligation
+panangdadael Enclitic; ! obliteration
+panangpukaw Enclitic; ! obliteration
+pananglipat Enclitic; ! oblivion
+paliiw Enclitic; ! observation
+lapped Enclitic; ! obstruction
+pagsapulan Enclitic; ! occupation
+pannakasakup Enclitic; ! occupation
+pasamak Enclitic; ! occurrence
+baybay Enclitic; ! ocean
+taaw Enclitic; ! ocean
+Oktubre Enclitic; ! october
+angut Enclitic; ! odor
+siempre Enclitic; ! of course
+panangpasakit Enclitic; ! offense
+panangrurod Enclitic; ! offense
+opisina Enclitic; ! office
+anak Enclitic; ! offspring
+anak Enclitic; ! offspring
+ken Enclitic; ! of
+maipapan Enclitic; ! of
+nabatahen Enclitic; ! oldtimer
+naisigud Enclitic; ! oldtimer
+sagaysan Enclitic; ! one by one
+pea Enclitic; ! one foot
+kakapat Enclitic; ! one-fourth
+kaguddua Enclitic; ! one-half
+sangagasut Enclitic; ! one-hundred
+sangaribu Enclitic; ! one-thousand
+lasona Enclitic; ! onion
+sibutas Enclitic; ! onion
+operasion Enclitic; ! operation
+panangpatignay Enclitic; ! operation
+mangtarawidwid Enclitic; ! operator
+kapanunotan Enclitic; ! opinion
+panunot Enclitic; ! opinion
+patta-patta Enclitic; ! opinion
+gundaway Enclitic; ! opportunity
+kasango Enclitic; ! opposition
+isusupiat Enclitic; ! opposition
+pannakairurunem Enclitic; ! oppression
+mamadto Enclitic; ! oracle
+mammadles Enclitic; ! oracle
+bitla Enclitic; ! oration
+minuyongan Enclitic; ! orchard
+tuok Enclitic; ! ordeal
+bilin Enclitic; ! ordinance
+timpuyog Enclitic; ! organization
+organo Enclitic; ! organ
+kiaw Enclitic; ! oriole
+wenno Enclitic; ! or
+wennu Enclitic; ! or
+karbengan Enclitic; ! ought
+rebbeng Enclitic; ! ought
+rumbeng Enclitic; ! ought
+onsa Enclitic; ! ounce
+kukuatayo Enclitic; ! our
+bahitayo Enclitic; ! ourselves
+tayo Enclitic; ! our
+panagbettak Enclitic; ! outburst
+banag Enclitic; ! outcome
+sulbod Enclitic; ! outgrowth
+orno Enclitic; ! oven
+pugon Enclitic; ! oven
+abbong Enclitic; ! overcoat
+kapote Enclitic; ! overcoat
+lumumba Enclitic; ! overtake & pass
+puek Enclitic; ! owl
+puek Enclitic; ! owl
+agtahikua Enclitic; ! owner
+akinkukua Enclitic; ! owner
+ikut Enclitic; ! ownership
+nasinghit Enclitic; ! oxytone
+panagtalna Enclitic; ! pacification
+panagulimek Enclitic; ! pacification
+agbalbalkot Enclitic; ! packer
+pabuya Enclitic; ! pageant
+balde Enclitic; ! pail
+timba Enclitic; ! pail
+pumipinta Enclitic; ! painter
+palasio Enclitic; ! palace
+dakulap Enclitic; ! palm of hand
+salig Enclitic; ! palm tree
+ama Enclitic; ! papa
+tata Enclitic; ! papa
+tatang Enclitic; ! papa
+gloria Enclitic; ! paradise
+paraiso Enclitic; ! paradise
+pagwadan Enclitic; ! paragon
+panagpada Enclitic; ! parity
+balkon Enclitic; ! parlor
+ministro Enclitic; ! parson
+pastor Enclitic; ! parson
+pannakikadua Enclitic; ! participation
+pannakilaok Enclitic; ! participation
+plete Enclitic; ! passage
+panaglasat Enclitic; ! passage
+aglugan Enclitic; ! passenger
+pasahero Enclitic; ! passenger
+rikna Enclitic; ! passion
+osoken Enclitic; ! pass under something
+ayayan Enclitic; ! pastime
+linglingay Enclitic; ! pastime
+kankanen Enclitic; ! pastry
+ladingit Enclitic; ! pathos
+pagnaan Enclitic; ! path
+tawid Enclitic; ! patrinomy
+santo Enclitic; ! patron
+suki Enclitic; ! patron
+mangsalda Enclitic; ! pawnbroker
+bayad Enclitic; ! payment
+pagbayad Enclitic; ! payment
+kappia Enclitic; ! peace
+kap'ya Enclitic; ! peace
+talna Enclitic; ! peace
+gisantes Enclitic; ! pea
+mannalon Enclitic; ! peasant
+aglaklako Enclitic; ! peddler
+tirad Enclitic; ! pencil point
+iseserek Enclitic; ! penetration
+buto Enclitic; ! penis
+lateg Enclitic; ! penis
+lukdit Enclitic; ! penis
+mitten Enclitic; ! penis
+lansita Enclitic; ! penkinike
+sentabo Enclitic; ! penny
+kuarta Enclitic; ! penny
+pannakadadael Enclitic; ! perdition
+panagbaniaga Enclitic; ! peregrination
+kinaan-anay Enclitic; ! perfection
+abot Enclitic; ! perforation
+pihis Enclitic; ! perforation
+aramid Enclitic; ! performance
+marka Enclitic; ! period
+tulnek Enclitic; ! period
+panangidadanes Enclitic; ! perjury
+palubos Enclitic; ! permission
+pammalubos Enclitic; ! permission
+anus Enclitic; ! perseverance
+kinapinget Enclitic; ! perseverance
+tao Enclitic; ! person
+panagkita Enclitic; ! perspective
+awisen Enclitic; ! persuade to come
+panangawis Enclitic; ! persuasion
+angol Enclitic; ! pest
+parmaseutiko Enclitic; ! pharmacist
+pilisopo Enclitic; ! philosopher
+pilosopia Enclitic; ! philosophy
+buteg Enclitic; ! phlegm
+plemo Enclitic; ! phlegm
+maniniyot Enclitic; ! photographer
+retratista Enclitic; ! photographer
+letrato Enclitic; ! photo
+doktor Enclitic; ! physician
+mangngagas Enclitic; ! physician
+mediko Enclitic; ! physician
+beklat Enclitic; ! phyton
+agpidut Enclitic; ! pick up
+piduten Enclitic; ! pick up
+kankanen Enclitic; ! pie
+panagraem Enclitic; ! piety
+agsubsub Enclitic; ! pig digging or rooting
+kalapati Enclitic; ! pigeon
+kalapati Enclitic; ! pigeon
+pagaw Enclitic; ! pigeon
+burias Enclitic; ! piglet
+adighi Enclitic; ! pillar
+sarikedked Enclitic; ! pillar
+pilduras Enclitic; ! pill
+kamuro Enclitic; ! pimple
+kamoro Enclitic; ! pimple
+pahipit Enclitic; ! pincers
+pagsipit Enclitic; ! pincers
+malipit Enclitic; ! pinch fingers under
+pinia Enclitic; ! pineapple
+aruo Enclitic; ! pine tree
+saleng Enclitic; ! pine tree
+sangkapirit Enclitic; ! pint
+paltog Enclitic; ! pistol
+pistol Enclitic; ! pistol
+planeta Enclitic; ! planet
+hasienda Enclitic; ! plantation
+plantasion Enclitic; ! plantation
+entablado Enclitic; ! platform
+pagtakderan Enclitic; ! platform
+bandehado Enclitic; ! platter
+panangidayaw Enclitic; ! plaudit
+pagay-ayaman Enclitic; ! playground
+braha Enclitic; ! playing cards
+kaayayam Enclitic; ! playmate
+panagragragsak Enclitic; ! pleasure
+agringkon Enclitic; ! plow between rows
+kinaadu Enclitic; ! plurality
+matutudo Enclitic; ! pluvial
+nabasa Enclitic; ! pluvial
+mannaniw Enclitic; ! poet
+itudo Enclitic; ! point at
+nasikarod Enclitic; ! poke at an angle
+nadalapos Enclitic; ! poke straight
+sumalput Enclitic; ! poke through
+panaglako Enclitic; ! policy
+politiko Enclitic; ! politician
+politika Enclitic; ! politics
+nota Enclitic; ! pollen
+basaw Enclitic; ! pond
+pultit Enclitic; ! poop
+takki Enclitic; ! poop
+tukkey Enclitic; ! poop
+papa Enclitic; ! pope
+kinalatak Enclitic; ! popularity
+bangsal Enclitic; ! porch
+patatas Enclitic; ! potato
+nalatak Enclitic; ! poular
+aglualo Enclitic; ! pray for dead at cemetery
+wasay-wasay Enclitic; ! praying mantis
+mara Enclitic; ! prefix indicating similarity
+panakasagana Enclitic; ! preparedness
+kaadda Enclitic; ! presence
+sango Enclitic; ! presence
+panangtahinayon Enclitic; ! preservation
+pangulo Enclitic; ! presidendt
+presidente Enclitic; ! presidendt
+presidente Enclitic; ! president
+agplantsa Enclitic; ! pressm v.
+italmeg Enclitic; ! pressm v.
+panagyarig Enclitic; ! pretension
+kinaadu Enclitic; ! prevalence
+panangatipa Enclitic; ! prevention
+padi Enclitic; ! priest
+peinsipe Enclitic; ! prince
+prinsesa Enclitic; ! princess
+ahimaldit Enclitic; ! printer
+mammarka Enclitic; ! printer
+pahimalditan Enclitic; ! printing press
+immuna Enclitic; ! priority
+sakbay Enclitic; ! priority
+balod Enclitic; ! prison
+balud Enclitic; ! prisoner
+pagbaludan Enclitic; ! prison
+anya Enclitic; ! problem
+problema Enclitic; ! problem
+ppabrika Enclitic; ! products
+paligpalig Enclitic; ! propeller
+padto Enclitic; ! prophecy
+mammadto Enclitic; ! prophet
+propeta Enclitic; ! prophet
+akinkukua Enclitic; ! proprietor
+panagtahikua Enclitic; ! proprietry
+panagbaknang Enclitic; ! prosperity
+panagrang-ay Enclitic; ! prosperity
+bumaknang Enclitic; ! prospher
+rumang-ay Enclitic; ! prospher
+taraken Enclitic; ! protegee
+pagsasao Enclitic; ! proverb
+proberbo Enclitic; ! proverb
+Dios Enclitic; ! providence
+panangipaay Enclitic; ! providence
+ili Enclitic; ! province
+probinsiya Enclitic; ! province
+probinsia Enclitic; ! province
+masipak Enclitic; ! prune branches
+urmot Enclitic; ! pubic hair
+libro Enclitic; ! publication
+pahiwarnak Enclitic; ! publication
+boxingero Enclitic; ! pugilist
+kinapintas Enclitic; ! pulchritude
+kalo Enclitic; ! pulley
+maburak Enclitic; ! pulverize soil
+karabasa Enclitic; ! pumpkin
+karabasa Enclitic; ! pumpkin
+n Enclitic; ! pumpkin
+bawel Enclitic; ! punishment
+dusa Enclitic; ! punishment
+naganethet Enclitic; ! puposeful
+uken Enclitic; ! puppy
+managdalus Enclitic; ! puristic
+nana Enclitic; ! pus
+ikoloong Enclitic; ! put in cage
+agrungrung Enclitic; ! put out cigarette
+ansisit Enclitic; ! pygmy
+beklat Enclitic; ! python
+mangngagas Enclitic; ! quack doctor
+kabaelan Enclitic; ! qualification
+sagubanit Enclitic; ! qualm
+uppatan Enclitic; ! quartette
+kadi Enclitic; ! question marker word
+kaputotan Enclitic; ! racem n.
+lumba Enclitic; ! racem n.
+paglumbaan Enclitic; ! race track
+rabanos Enclitic; ! radish
+bulalayaw Enclitic; ! rainbow
+kapote Enclitic; ! rain coat
+agnepnep Enclitic; ! rain steady for days
+akasia Enclitic; ! rain tree
+itindig Enclitic; ! rainy season
+mag-ani Enclitic; ! rainy season
+matutudo Enclitic; ! rainy season
+panagtutudo Enclitic; ! rainy season
+sugud-sugud Enclitic; ! rambutan
+panagragragsak Enclitic; ! rapture
+paseeking Enclitic; ! rattan pack
+way Enclitic; ! rattan
+agbasbasa Enclitic; ! reader
+sakup Enclitic; ! realm
+uneg Enclitic; ! realm
+panangawat Enclitic; ! recetion
+resibo Enclitic; ! reciept
+awaten Enclitic; ! recieve
+kalikagum Enclitic; ! recommendation
+dahiti Enclitic; ! recommendation
+gandat Enclitic; ! recommendation
+panagtinnarus Enclitic; ! reconciliation
+panaglaing Enclitic; ! recovery
+panagsubbot Enclitic; ! recovery
+panagangsubbot Enclitic; ! redemption
+kissay Enclitic; ! reduction
+panangpabassit Enclitic; ! reduction
+nabangsit Enclitic; ! reeky
+nayon Enclitic; ! reenforcement
+tulong Enclitic; ! reenforcement
+kinasayaat Enclitic; ! refinement
+sursuro Enclitic; ! refinement
+pagpalamiis Enclitic; ! refreshments
+panangpalamiis Enclitic; ! refrigeration
+kamangan Enclitic; ! refuge
+panagmadi Enclitic; ! refusal
+deppaar Enclitic; ! region
+kabahian Enclitic; ! relatives
+aganges Enclitic; ! relief
+pakalaglahipan Enclitic; ! remembrance
+panglahipan Enclitic; ! remembrance
+agadaw Enclitic; ! remove charcoal from pit
+ahibaut Enclitic; ! remove from stem
+agkapon Enclitic; ! remove testicles
+agpungtot Enclitic; ! reprisal
+ungtan Enclitic; ! reprisal
+aganak Enclitic; ! reproduction
+panagpatubo Enclitic; ! reproduction
+panangtalikud Enclitic; ! repudiation
+kinaadu Enclitic; ! repundance
+dayaw Enclitic; ! reputation
+panagkaingas Enclitic; ! resemblance
+gura Enclitic; ! resentment
+reserbasion Enclitic; ! reservation
+tambak Enclitic; ! reservoir
+paghianan Enclitic; ! residence
+pagtaengan Enclitic; ! residence
+aridaed Enclitic; ! residue
+nabati Enclitic; ! residue
+panahikkat Enclitic; ! resignation
+isusupiat Enclitic; ! resistance
+kuarta Enclitic; ! resource
+pigsa Enclitic; ! resource
+panaganges Enclitic; ! respiration
+sungbat Enclitic; ! response
+panganan Enclitic; ! restaurant
+kinaalikuteg Enclitic; ! restlessness
+pannakaisubli Enclitic; ! restoration
+panagtengngel Enclitic; ! restraint
+tenglen Enclitic; ! restraint
+pannakaituloy Enclitic; ! resumption
+panagungar Enclitic; ! resurrection
+panagtengngel Enclitic; ! retention
+kinatalinaay Enclitic; ! reticence
+panagkedked Enclitic; ! reticence
+panahinana Enclitic; ! retirement
+panagsanod Enclitic; ! retrogression
+paltiing Enclitic; ! revelation
+panangipalgak Enclitic; ! revelations
+rebelasion Enclitic; ! revelations
+panagliwliwa Enclitic; ! revelry
+panagragsak Enclitic; ! revelry
+buis Enclitic; ! revenue
+parparmata Enclitic; ! reverie
+tagtagainep Enclitic; ! reverie
+nabaliktad Enclitic; ! reversal
+panangbaliw Enclitic; ! revision
+panangpaungar Enclitic; ! revival
+panaglaban Enclitic; ! revolution
+panagtayyek Enclitic; ! revolution
+rebolusion Enclitic; ! revolution
+rebolber Enclitic; ! revolver
+panangangaw Enclitic; ! ribbings
+laso Enclitic; ! ribbon
+liston Enclitic; ! ribbon
+talon Enclitic; ! rice field
+baknang Enclitic; ! riches
+kinabaknang Enclitic; ! riches
+agsakay Enclitic; ! rider
+layag Enclitic; ! rigger
+waig Enclitic; ! rill
+panaglalaban Enclitic; ! rivalry
+panagsalip Enclitic; ! rivalry
+karayan Enclitic; ! river
+ilog Enclitic; ! river
+karayan Enclitic; ! river
+waig Enclitic; ! river
+kalsada Enclitic; ! road
+daan Enclitic; ! road
+dalan Enclitic; ! road
+kalsada Enclitic; ! road
+lansangan Enclitic; ! road
+pagnaan Enclitic; ! road
+agtatakaw Enclitic; ! robber
+tulisan Enclitic; ! robber
+bulilising Enclitic; ! robin
+robin Enclitic; ! robin
+pagbaot Enclitic; ! rod
+dursok Enclitic; ! rogue
+kawitan Enclitic; ! rooster
+kuentas Enclitic; ! rosary
+bayad Enclitic; ! royalty
+kinaari Enclitic; ! royalty
+elastiko Enclitic; ! rubber band
+kinadursok Enclitic; ! rudeness
+alpombra Enclitic; ! rug
+pagdalus Enclitic; ! rug
+mangituray Enclitic; ! ruler
+mannaray Enclitic; ! runner
+paatalan Enclitic; ! run over
+padalapusan Enclitic; ! run over
+sikap Enclitic; ! ruse
+ladingit Enclitic; ! sadness
+kinatalhed Enclitic; ! safety
+aspili Enclitic; ! safety pin
+marinero Enclitic; ! sailor
+kinelnat Enclitic; ! salad
+salad Enclitic; ! salad
+sueldo Enclitic; ! salary
+naglakuan Enclitic; ! sale
+apgad Enclitic; ! saltiness
+naapgad Enclitic; ! saltiness
+kablaaw Enclitic; ! salutation
+panagdayaw Enclitic; ! salutation
+pannakaisalakan Enclitic; ! salvation
+kinasanto Enclitic; ! sanctity
+nasantuan Enclitic; ! sanctity
+pagpaimbagan Enclitic; ! sanitarium
+amag Enclitic; ! sapwood
+pammasahid Enclitic; ! sarcasm
+pagreppet Enclitic; ! sash
+demonio Enclitic; ! satan
+satanas Enclitic; ! satan
+satin Enclitic; ! satin
+pannakapnek Enclitic; ! satisfaction
+Sabado Enclitic; ! saturday
+platito Enclitic; ! saucer
+longanissa Enclitic; ! sausage
+longganisa Enclitic; ! sausage
+salaknib Enclitic; ! saviour
+naraman Enclitic; ! savort
+eskandalo Enclitic; ! scandal
+kinakirang Enclitic; ! scarcity
+kinatakkum Enclitic; ! scarcity
+bambanti Enclitic; ! scarecrow
+buya Enclitic; ! scene
+estudiante Enclitic; ! scholar
+nalaing Enclitic; ! scholar
+panagadal Enclitic; ! scholarship
+mangisursuro Enclitic; ! schoolteacher
+adal Enclitic; ! science
+siensia Enclitic; ! science
+pagsiriban Enclitic; ! science
+sientipiko Enclitic; ! scientist
+masirib Enclitic; ! scientist
+manggagama Enclitic; ! scorpion
+ahigad Enclitic; ! scrape coconut
+karosen Enclitic; ! scrape feet
+ugas Enclitic; ! scrubber
+eskultor Enclitic; ! sculptor
+baybay Enclitic; ! sea
+dagat Enclitic; ! sea
+taaw Enclitic; ! sea
+kadua Enclitic; ! secretary
+sekretario Enclitic; ! secretary
+linong Enclitic; ! security
+sekur Enclitic; ! security
+talhed Enclitic; ! security
+somelia Enclitic; ! seedling
+panangagaw Enclitic; ! seizure
+panagpili Enclitic; ! selection
+pinili Enclitic; ! selection
+kinaimut Enclitic; ! selfishness
+aglaklako Enclitic; ! seller
+kagadua Enclitic; ! semi
+senado Enclitic; ! senate
+senador Enclitic; ! senator
+pammalubos Enclitic; ! send-off
+nataengan Enclitic; ! senility
+rikna Enclitic; ! sensation
+panagrikna Enclitic; ! sensibility
+naarsahid Enclitic; ! sensitive person
+bain-bain Enclitic; ! sensitive plant
+rikriknaen Enclitic; ! sentiment
+Septiembre Enclitic; ! september
+agsasaruno Enclitic; ! series
+serpiente Enclitic; ! serpent
+uleg Enclitic; ! serpent
+adipen Enclitic; ! servant
+babaonen Enclitic; ! servant
+makapagpaay Enclitic; ! servicable
+lengnga Enclitic; ! sesame
+agbulos Enclitic; ! set free
+pannakaputed Enclitic; ! severance
+agkulog Enclitic; ! shake bottle
+agabug Enclitic; ! shake flies off
+agkamay Enclitic; ! shake hands
+agwarsi Enclitic; ! shake off
+kinarabaw Enclitic; ! shallowness
+kabingay Enclitic; ! shareholder
+pagasaan Enclitic; ! sharpening stone
+kaluban Enclitic; ! sheath
+kaluban Enclitic; ! sheath
+karnero Enclitic; ! sheep
+karnero Enclitic; ! sheep
+isu(babai) Enclitic; ! she
+aggadgad Enclitic; ! shell corn
+agpusi Enclitic; ! shell corn
+mapusi Enclitic; ! shell corn
+ipaw-it Enclitic; ! shipper
+ited Enclitic; ! shipper
+agpaltik Enclitic; ! shoot with rubber band
+kakurangan Enclitic; ! shortage
+panagkurang Enclitic; ! shortage
+pandek Enclitic; ! shorty
+koma Enclitic; ! should
+rumbeng Enclitic; ! should
+panaglinnawag Enclitic; ! showdown
+panagsinnuot Enclitic; ! showdown
+bao Enclitic; ! shrew
+sangio Enclitic; ! shrew
+kinamanagbain Enclitic; ! shyness
+kabahis Enclitic; ! sibling
+kabsat Enclitic; ! sibling
+nagbalihi Enclitic; ! siccessful
+sikle Enclitic; ! sickle
+sagubanit Enclitic; ! sickness
+sakit Enclitic; ! sickness
+bakrang Enclitic; ! side of the
+pagnaan Enclitic; ! sidewalk
+seda Enclitic; ! silk
+kinamaag Enclitic; ! sillyness
+kinanumo Enclitic; ! simplicity
+nanipud Enclitic; ! since
+kumakanta Enclitic; ! singer
+apo Enclitic; ! sir
+kabsat Enclitic; ! sister
+kasasaad Enclitic; ! situation
+rurog Enclitic; ! skeleton
+ammo Enclitic; ! skill
+kawali Enclitic; ! skillet
+kinalaing Enclitic; ! skill
+sirib Enclitic; ! skill
+bangabanga Enclitic; ! skull
+agpapatay Enclitic; ! slayer
+pannakaturturog Enclitic; ! sleepiness
+tsleko Enclitic; ! sleeveless sweater
+manggas Enclitic; ! sleeve
+tinelas Enclitic; ! slipper
+stsinela Enclitic; ! slippers
+kinabuntog Enclitic; ! slowness
+balangkantis Enclitic; ! slut
+garampingat Enclitic; ! slut
+sepsep Enclitic; ! small biting fly
+kinabassit Enclitic; ! smallness
+burtong Enclitic; ! smallpox
+kaper Enclitic; ! smegma
+mammanday Enclitic; ! smith
+kinalamuyot Enclitic; ! smoothness
+nalabudoy Enclitic; ! smooth skin
+lupus Enclitic; ! snake skin
+lupus Enclitic; ! snake skin (shed)
+gimong Enclitic; ! society
+timpuyog Enclitic; ! society
+balong Enclitic; ! son
+kansion Enclitic; ! song
+kanta Enclitic; ! song
+kansyon Enclitic; ! song
+kanta Enclitic; ! song
+kararua Enclitic; ! soul
+kararua Enclitic; ! soul
+karma Enclitic; ! soul
+pakalaglahipan Enclitic; ! souvenir
+panagturay Enclitic; ! sovereignty
+paglaingan Enclitic; ! specialty
+klasse Enclitic; ! species
+buyaen Enclitic; ! spectacle
+pag-pagarup Enclitic; ! speculation
+bitla Enclitic; ! speech
+diskurso Enclitic; ! speech
+kapsit Enclitic; ! sperm
+kisit Enclitic; ! sperm
+kisset Enclitic; ! sperm
+kissit Enclitic; ! sperm
+lubong Enclitic; ! sphere
+sakup Enclitic; ! sphere
+ganggang Enclitic; ! spider
+lawwalawwa Enclitic; ! spider
+lawwa-lawwa Enclitic; ! spider
+saput Enclitic; ! spider web
+alugbati Enclitic; ! spinach
+agsabuag Enclitic; ! splash with hands
+apro Enclitic; ! spleen
+ngayed Enclitic; ! splendor
+asawa Enclitic; ! spouse
+pusit Enclitic; ! squid
+keddeng Enclitic; ! statement
+sarita Enclitic; ! statement
+bulto Enclitic; ! statue
+monumento Enclitic; ! statue
+bapor Enclitic; ! steamship
+kampanario Enclitic; ! steeple
+tore Enclitic; ! steeple
+petsa Enclitic; ! ste
+takigrapo Enclitic; ! stenographer
+kinasikkel Enclitic; ! stiffness
+kinaulimek Enclitic; ! stillness
+agtonged Enclitic; ! stimulate milk supply
+kinaimut Enclitic; ! stinginess
+dangaw Enclitic; ! stink bug
+aggaradugud Enclitic; ! stomach growl
+espia Enclitic; ! stool pegion
+pahidulinan Enclitic; ! storage
+pagummongan Enclitic; ! storage
+kadsaaran Enclitic; ! story
+sarita Enclitic; ! story
+kinalukmeg Enclitic; ! stoutness
+diretso Enclitic; ! straight ahead
+nabatad Enclitic; ! straight-forward
+lumboy Enclitic; ! strawberry
+kale Enclitic; ! street
+dalan Enclitic; ! street
+pigsa Enclitic; ! strength
+panaglaban Enclitic; ! strife
+ranget Enclitic; ! strife
+agad-adal Enclitic; ! student
+skwela Enclitic; ! student
+kinakuneng Enclitic; ! stupidity
+panangparukma Enclitic; ! subjugation
+panagrukbab Enclitic; ! submission
+anag Enclitic; ! substance
+linaon Enclitic; ! substance
+panahisukat Enclitic; ! substitution
+panahikkat Enclitic; ! subtraction
+panangkissay Enclitic; ! subtraction
+balihi Enclitic; ! success
+agbalihi Enclitic; ! suceed
+tagapulut Enclitic; ! sugar cane
+unas Enclitic; ! sugar cane
+singasing Enclitic; ! suggestion
+wayat Enclitic; ! suggestion
+kinapudot Enclitic; ! sultriness
+Domingo Enclitic; ! sunday
+mangimaton Enclitic; ! supeintendent
+superintendente Enclitic; ! supeintendent
+kinangato Enclitic; ! superiority
+mangiturong Enclitic; ! supervision
+panangiturong Enclitic; ! supervision
+superbisor Enclitic; ! supervision
+kinangato Enclitic; ! supremacy
+panagturay Enclitic; ! supremacy
+apelido Enclitic; ! surname
+tirante Enclitic; ! suspenders
+abuloy Enclitic; ! sustenance
+tulong Enclitic; ! sustenance
+nalingetan Enclitic; ! sweaty
+kinasam-it Enclitic; ! sweetness
+sinam-it Enclitic; ! sweets
+espada Enclitic; ! sword
+pahilasinan Enclitic; ! symbol
+tanda Enclitic; ! symbol
+pannakipagrikna Enclitic; ! sympathy
+katarus Enclitic; ! synonym
+summady Enclitic; ! synopsis
+panangurnos Enclitic; ! syntax
+pamuspusan Enclitic; ! system
+wagas Enclitic; ! system
+kuaderno Enclitic; ! tablet
+tableta Enclitic; ! tablet
+sikap Enclitic; ! tactics
+taktika Enclitic; ! tactics
+bayyek Enclitic; ! tadpole
+kabaelan Enclitic; ! talent
+sirib Enclitic; ! talent
+talugading Enclitic; ! talent
+sarita Enclitic; ! tale
+anting-anting Enclitic; ! talisman
+salamahi Enclitic; ! tamarind
+agdalapeg Enclitic; ! tap fingers
+pannakaladaw Enclitic; ! tardiness
+pannakaudi Enclitic; ! tardiness
+aba Enclitic; ! taro
+pagdagusan Enclitic; ! tavern
+daytay Enclitic; ! tay
+tayo Enclitic; ! tay
+tsa Enclitic; ! tea
+agsursuro Enclitic; ! teacher
+maestro Enclitic; ! teacher
+maistra Enclitic; ! teacher
+mangisuro Enclitic; ! teacher
+mangisursuro Enclitic; ! teacher
+kapateria Enclitic; ! teapot
+tsa Enclitic; ! tea
+ngipen Enclitic; ! teeth
+agwaliwali Enclitic; ! teeth to be loose
+ahipalawag Enclitic; ! teller
+bagyo Enclitic; ! tempest
+naangin Enclitic; ! tempestous
+nabagyo Enclitic; ! tempestous
+pispis Enclitic; ! temple of head
+simbaan Enclitic; ! temple
+templo Enclitic; ! temple
+pannakasulisog Enclitic; ! temptation
+sulisog Enclitic; ! temptation
+pagpatinggaan Enclitic; ! termination
+ungto Enclitic; ! termination
+anay Enclitic; ! termite
+simut-simut Enclitic; ! termite
+daga Enclitic; ! territory
+distrito Enclitic; ! territory
+sakup Enclitic; ! territory
+buteng Enclitic; ! terror
+tulag Enclitic; ! testament
+agkapon Enclitic; ! testicles
+ukel-ukel Enclitic; ! testicles
+pamaneknek Enclitic; ! testimony
+pammaneknek Enclitic; ! testimony
+saksi Enclitic; ! testimony
+anag Enclitic; ! text
+linaon Enclitic; ! text
+naguneg Enclitic; ! text
+ngemti Enclitic; ! than
+daydiay Enclitic; ! that
+dayta Enclitic; ! that
+tapno Enclitic; ! that
+pagbuyaan Enclitic; ! theatre
+teatro Enclitic; ! theatre
+kadukuada Enclitic; ! them
+kadakuada Enclitic; ! themselves
+dahitoy Enclitic; ! these
+ti Enclitic; ! the
+isuda Enclitic; ! they
+mannanakaw Enclitic; ! thief
+kukuada Enclitic; ! thier
+luppo Enclitic; ! thigh
+dadal Enclitic; ! thimble
+banag Enclitic; ! thing
+daytoy Enclitic; ! this
+siit Enclitic; ! thorn
+dahidiay Enclitic; ! those
+pangbutbuteng Enclitic; ! threat
+salup Enclitic; ! three liters
+karabukob Enclitic; ! throat
+karabukob Enclitic; ! throat
+Juebes Enclitic; ! thursday
+dayta Enclitic; ! thy
+tigre Enclitic; ! tiger
+troso Enclitic; ! timber
+panagbain Enclitic; ! timidity
+latero Enclitic; ! tinsmith
+bayyek Enclitic; ! toad
+karag Enclitic; ! toad
+kasilas Enclitic; ! toilet
+kasilyas Enclitic; ! toilet
+ken Enclitic; ! to
+panangbay-a Enclitic; ! toleration
+kamatis Enclitic; ! tomato
+kamatis Enclitic; ! tomato
+tanem Enclitic; ! tomb
+agtabbed Enclitic; ! tongue-tide
+tonelada Enclitic; ! ton
+sipilyo Enclitic; ! toothbrush
+suhihi Enclitic; ! toothbrush
+ngipen Enclitic; ! tooth
+pagsasaritaan Enclitic; ! topic
+tapno Enclitic; ! to
+kinakulbet Enclitic; ! toughness
+kinakired Enclitic; ! toughness
+pantalon Enclitic; ! touser
+sapin Enclitic; ! touser
+ili Enclitic; ! town
+kalian Enclitic; ! townmate
+daga Enclitic; ! tract
+nakairuman Enclitic; ! tradition
+didigra Enclitic; ! tragedy
+mangliliput Enclitic; ! traitor
+traidor Enclitic; ! traitor
+naipatarus Enclitic; ! translation
+sasakayan Enclitic; ! transportation
+transportasion Enclitic; ! transportation
+agbaniaga Enclitic; ! traveler
+biahero Enclitic; ! traveler
+panangliput Enclitic; ! treason n.
+traision Enclitic; ! treason n.
+tesorero Enclitic; ! treasurer
+agasan Enclitic; ! treasury
+taripatuen Enclitic; ! treasury
+panangagas Enclitic; ! treatment
+panangtaripato Enclitic; ! treatment
+tulag Enclitic; ! treaty
+pannakapadas Enclitic; ! trial
+pannakasuot Enclitic; ! trial
+pannakausig Enclitic; ! trial
+suot Enclitic; ! trial
+puli Enclitic; ! tribe
+tribo Enclitic; ! tribe
+buis Enclitic; ! tribute
+sagut Enclitic; ! tribute
+trambia Enclitic; ! trolley
+pantalon Enclitic; ! trousers
+minuyogan Enclitic; ! truck garden
+lakasa Enclitic; ! trunk
+puon Enclitic; ! trunk
+tampipi Enclitic; ! trunk
+aglinnipat Enclitic; ! truth
+kinapudno Enclitic; ! truth
+pudno Enclitic; ! truth
+batia Enclitic; ! tub
+bagas Enclitic; ! tuber
+tuhi Enclitic; ! tuber
+Martes Enclitic; ! tuesday
+ginnuyod Enclitic; ! tug-of-war
+letteg Enclitic; ! tumor
+pabo Enclitic; ! turkey
+pabo Enclitic; ! turkey
+tumalikod Enclitic; ! turn around
+agpusipus Enclitic; ! turn body ½ way around
+agpagunyen Enclitic; ! turn on radio
+baliktaden Enclitic; ! turn over
+dinua Enclitic; ! twosome
+tipus Enclitic; ! typehoid fever
+makinila Enclitic; ! typewriter
+bahio Enclitic; ! typhoon
+bagyo Enclitic; ! typhoon
+kinaranggas Enclitic; ! tyranny
+kinaulpit Enclitic; ! tyranny
+busali Enclitic; ! ulcer
+letteg Enclitic; ! ulcer
+maudi Enclitic; ! ultimatum
+ultimatum Enclitic; ! ultimatum
+awan-kasiguraduan Enclitic; ! uncertainty
+tio Enclitic; ! uncle
+uliteg Enclitic; ! uncle
+naariweng Enclitic; ! unconcious
+napleng Enclitic; ! unconcious
+kamiseta Enclitic; ! undershirt
+garaw Enclitic; ! undulation
+panagalon Enclitic; ! undulation
+panagkaykaysa Enclitic; ! unity
+timpuyog Enclitic; ! unity
+law-ang Enclitic; ! universe
+unibersidad Enclitic; ! university
+malaksid Enclitic; ! unless
+riribuk Enclitic; ! unrest
+ahinggana Enclitic; ! until
+inggana Enclitic; ! until
+inggana Enclitic; ! unto
+iti Enclitic; ! unto
+ulbod Enclitic; ! unture
+rabaw Enclitic; ! upon
+takiag Enclitic; ! upper arm
+kinaringgor Enclitic; ! uproar
+riribok Enclitic; ! uproar
+nagbanagan Enclitic; ! upshot
+isbo Enclitic; ! urine
+isbu Enclitic; ! urine
+tayo Enclitic; ! us
+osurero Enclitic; ! usurer
+aanakan Enclitic; ! uterus
+palawag Enclitic; ! utterance
+sinarita Enclitic; ! utterance
+agbakuna Enclitic; ! vaccination
+bakuna Enclitic; ! vaccination
+oki Enclitic; ! vagina
+okie Enclitic; ! vagina
+pipit Enclitic; ! vagina
+puki Enclitic; ! vagina
+uki Enclitic; ! vagina
+maleta Enclitic; ! valise
+longog Enclitic; ! valley
+oki-oki Enclitic; ! valley
+barbula Enclitic; ! valve
+kinalabes Enclitic; ! vanity
+kinalawa Enclitic; ! vastness
+nateng Enclitic; ! vegetable
+nateng Enclitic; ! vegetables
+lugan Enclitic; ! vehicle
+kinapartak Enclitic; ! velocity
+partak Enclitic; ! velocity
+aglaklako Enclitic; ! vendor
+panagdayaw Enclitic; ! veneration
+panahibales Enclitic; ! vengeance
+subbot Enclitic; ! vengeance
+giasabidong Enclitic; ! venom
+kinapudno Enclitic; ! veracity
+berbo Enclitic; ! verb
+beterano Enclitic; ! vererano
+kinapudno Enclitic; ! verification
+pannakapaneknek Enclitic; ! verification
+maisupiat Enclitic; ! versus
+betinario Enclitic; ! veterinarian
+parikut Enclitic; ! vexation
+pungtot Enclitic; ! vexation
+suron Enclitic; ! vexation
+sida Enclitic; ! viand
+kasuno Enclitic; ! vice
+bise Enclitic; ! vice
+bisio Enclitic; ! vice
+arubayan Enclitic; ! vicinity
+nadangranan Enclitic; ! victim
+nagbalihi Enclitic; ! victor
+nangabak Enclitic; ! victor
+balihi Enclitic; ! victory
+panangabak Enclitic; ! victory
+panagaywan Enclitic; ! vigilance
+panangbantay Enclitic; ! vigil
+panangimutektek Enclitic; ! vigil
+pigsa Enclitic; ! vigor
+away Enclitic; ! village
+bario Enclitic; ! village
+bario Enclitic; ! village
+pigsa Enclitic; ! vim
+daromaka Enclitic; ! vine
+suka Enclitic; ! vinegar
+suka Enclitic; ! vinegar
+labtang Enclitic; ! vine
+lanut Enclitic; ! vine
+panangasalungasing Enclitic; ! violation
+biolin Enclitic; ! violin
+kinadalus Enclitic; ! virginity
+kinasingpet Enclitic; ! virginity
+dayaw Enclitic; ! virtue
+parparmata Enclitic; ! vision
+sarimata Enclitic; ! vision
+sirmata Enclitic; ! vision
+bisita Enclitic; ! visitor
+sangaili Enclitic; ! visitor
+kinapigsa Enclitic; ! vitality
+sustansea Enclitic; ! vitamins
+balikas Enclitic; ! vocabulary
+kumakanta Enclitic; ! vocalist
+kita Enclitic; ! vogue
+moda Enclitic; ! vogue
+tabas Enclitic; ! vogue
+bulkan Enclitic; ! volcano
+gatad Enclitic; ! volume
+libro Enclitic; ! volume
+pagbasaan Enclitic; ! volume
+kibong-kibong Enclitic; ! vulva
+agsugal Enclitic; ! wager at playing cards
+makigubat Enclitic; ! wage war
+lugan Enclitic; ! wagon
+bagon Enclitic; ! wagon
+agkalawikiw Enclitic; ! wag tail
+agsaplit Enclitic; ! wag tail
+tsaleko Enclitic; ! waistcoat
+sibet Enclitic; ! waist
+siket Enclitic; ! waist
+ahidasar Enclitic; ! waiter
+agpaay Enclitic; ! waiter
+aguray Enclitic; ! waiter
+pagurayan Enclitic; ! waiting room
+petaka Enclitic; ! wallet
+pitaka Enclitic; ! wallet
+kumakanta Enclitic; ! warbler
+buyot Enclitic; ! warrior
+soldado Enclitic; ! warrior
+tukaktukak Enclitic; ! wart
+palanggana Enclitic; ! wash basin
+bimpo Enclitic; ! washcloth
+aglaba Enclitic; ! wash clothes
+ahinnaw Enclitic; ! wash dishes
+agdaldalus Enclitic; ! washer
+aglalaba Enclitic; ! washer
+agdiram-us Enclitic; ! wash face
+naiyayus Enclitic; ! washout
+agkawkaw Enclitic; ! wash penis
+agbuggo Enclitic; ! wash up
+akut-akut Enclitic; ! wasp
+alimbubuyog Enclitic; ! wasp
+alumpipinig Enclitic; ! wasp
+ayukan Enclitic; ! wasp
+agbanbantay Enclitic; ! watchman
+nuang Enclitic; ! water buffalo
+melon Enclitic; ! watermelon
+sandia Enclitic; ! watermelon
+sanha Enclitic; ! watermelon
+agsibug Enclitic; ! water plants
+nawasa Enclitic; ! water system
+agluluken Enclitic; ! weakness
+kinalupoy Enclitic; ! weakness
+nabaknang Enclitic; ! wealth
+armas Enclitic; ! weapon
+igam Enclitic; ! weapon
+magasgas Enclitic; ! wear by friction
+marunot Enclitic; ! wear down
+agribrib Enclitic; ! wear down teeth
+bannog Enclitic; ! weariness
+kettang Enclitic; ! weariness
+agababel Enclitic; ! weaver
+dakami Enclitic; ! we
+dakami Enclitic; ! we
+data Enclitic; ! we
+datayo Enclitic; ! we
+Mierkoles Enclitic; ! wednesday
+dominggo Enclitic; ! week
+lawas Enclitic; ! week
+bukbok Enclitic; ! weevil
+pahimbagan Enclitic; ! welfare
+pagsayaatan Enclitic; ! welfare
+salung-at Enclitic; ! welfare
+lattan Enclitic; ! wen
+sikami Enclitic; ! we
+sitayo Enclitic; ! we
+matutudo Enclitic; ! wet season
+ania Enclitic; ! what
+Ania? Enclitic; ! What?
+trigo Enclitic; ! wheat
+kareton Enclitic; ! wheeled cart
+roling Enclitic; ! wheeled cart
+kaano Enclitic; ! when
+kaano Enclitic; ! when
+Kaano? Enclitic; ! When?
+Papanam? Enclitic; ! Where are you going?
+ken Enclitic; ! whereby
+ket Enclitic; ! whereby
+daytay Enclitic; ! wherefore
+Nagapuam? Enclitic; ! Where have you been?
+sadino Enclitic; ! where
+agpapan Enclitic; ! whether
+no Enclitic; ! whether
+bayat Enclitic; ! while
+kabayatan Enclitic; ! while
+kanito Enclitic; ! while
+anay Enclitic; ! white ant
+pato Enclitic; ! white duck
+sadino Enclitic; ! whither
+asino Enclitic; ! who
+siasino Enclitic; ! who
+sia-sino Enclitic; ! who
+sino Enclitic; ! who
+Sino? Enclitic; ! Who?
+apay Enclitic; ! why
+Apay? Enclitic; ! Why?
+mitsa Enclitic; ! wick
+pabilo Enclitic; ! wick
+asawa Enclitic; ! wife
+agpayapay Enclitic; ! wiggle ears
+abuyo Enclitic; ! wild chicken
+kabakiran Enclitic; ! wilderness
+alingo Enclitic; ! wild pig
+tawa Enclitic; ! window
+mangabak Enclitic; ! winner
+inabak Enclitic; ! winnings
+agpunas Enclitic; ! wipe off
+kapanunotan Enclitic; ! wisdom
+karunungan Enclitic; ! wisdom
+sirib Enclitic; ! wisdom
+kapanunutan Enclitic; ! wit
+pananggamud Enclitic; ! witchery
+panangikkar Enclitic; ! withdrawal
+yaadyo Enclitic; ! withdrawal
+kasama Enclitic; ! with
+sirib Enclitic; ! wit
+babai Enclitic; ! woman
+baket Enclitic; ! woman
+lady Enclitic; ! woman
+kabo Enclitic; ! wood
+kayo Enclitic; ! wood
+katam Enclitic; ! wood plane
+dutdot Enclitic; ! wool
+mangmanghed Enclitic; ! worker
+mangmanghed Enclitic; ! workman
+ighes Enclitic; ! worms in fruits
+pungtot Enclitic; ! wrath
+unget Enclitic; ! wrath
+arkos Enclitic; ! wreath
+nakakaasi Enclitic; ! wretch
+naliday Enclitic; ! wretch
+nanumounay Enclitic; ! wretch
+agpespes Enclitic; ! wring out
+agsanggol Enclitic; ! wrist
+pongopongoan Enclitic; ! wrist
+pungua-punguan Enclitic; ! wrist
+agsurat Enclitic; ! write letter
+mannyrat Enclitic; ! writer
+ubi Enclitic; ! yam
+arubayan Enclitic; ! yard
+inaladan Enclitic; ! yard
+paraangan Enclitic; ! yard
+yarda Enclitic; ! yard
+taon Enclitic; ! year
+tawen Enclitic; ! year
+lebadora Enclitic; ! yeast
+ayukan Enclitic; ! yellow jacket
+ngarud Enclitic; ! yes
+oo Enclitic; ! yes
+wen Enclitic; ! yes
+wenna Enclitic; ! yes
+dakayo Enclitic; ! you
+dakayo Enclitic; ! you
+ka Enclitic; ! you
+Sika-on! Enclitic; ! You’ll be the one!
+Lumisi-ka! Enclitic; ! You look out!
+adi Enclitic; ! younger brother or sister
+Lukdit-mo! Enclitic; ! You prick!
+kuayo Enclitic; ! your
+kukuayo Enclitic; ! your
+kukuayo Enclitic; ! yours
+sika Enclitic; ! you
+sika Enclitic; ! you
+sikayo Enclitic; ! you
+agtutubo Enclitic; ! youth
+Aguray-ka! Enclitic; ! You wait!
+yoyo Enclitic; ! yoyo

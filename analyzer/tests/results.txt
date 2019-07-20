@@ -1,0 +1,112 @@
+lalakiak	lalaki+Sg+1Abs+SgAbs
+
+idiayak	idiay+Sg+1Abs+SgAbs
+idiayak	idiaya+Sg+1Erg+SgErg
+idiayak	idiaya+Sg+1Erg+SgErg+3Abs+SgAbs
+
+innak	inna+Guess+Sg+1Erg+SgErg
+innak	inna+Guess+Sg+1Erg+SgErg+3Abs+SgAbs
+innak	innak+Guess+Sg
+
+napigsaka	napigsa+Sg+2Abs+SgAbs
+napigsaka	napigsa+Sg+1Erg+SgErg+2Abs+SgAbs
+
+rabiika	rabii+Sg+2Abs+SgAbs
+rabiika	rabii+Sg+1Erg+SgErg+2Abs+SgAbs
+
+kanayonka	kanayon+Sg+2Abs+SgAbs
+kanayonka	kanayon+Sg+1Erg+SgErg+2Abs+SgAbs
+
+saanda	saan+Sg+3Erg+PlErg
+saanda	saan+Sg+3Erg+PlErg+3Abs+SgAbs
+saanda	saan+Sg+3Abs+PlAbs
+
+balayko	balay+Sg+1Erg+SgErg
+balayko	balay+Sg+1Erg+SgErg+3Abs+SgAbs
+
+nanangko	nanang+Sg+1Erg+SgErg
+nanangko	nanang+Sg+1Erg+SgErg+3Abs+SgAbs
+
+panunotko	panunot+Sg+1Erg+SgErg
+panunotko	panunot+Sg+1Erg+SgErg+3Abs+SgAbs
+
+bulanko	bulan+Sg+1Erg+SgErg
+bulanko	bulan+Sg+1Erg+SgErg+3Abs+SgAbs
+
+kayatko	kayat+Sg+1Erg+SgErg
+kayatko	kayat+Sg+1Erg+SgErg+3Abs+SgAbs
+
+riknak	rikna+Sg+1Erg+SgErg
+riknak	rikna+Sg+1Erg+SgErg+3Abs+SgAbs
+
+lolok	lolo+Sg+1Erg+SgErg
+lolok	lolo+Sg+1Erg+SgErg+3Abs+SgAbs
+
+masakbayak	masakbay+Guess+Sg+1Abs+SgAbs
+masakbayak	masakbaya+Guess+Sg+1Erg+SgErg
+masakbayak	masakbaya+Guess+Sg+1Erg+SgErg+3Abs+SgAbs
+masakbayak	masakbayak+Guess+Sg
+
+pusam	pusa+Sg+2Erg+SgErg
+pusam	pusa+Sg+2Erg+SgErg+3Abs+SgAbs
+
+dimo	di+Sg+2Erg+SgErg
+dimo	di+Sg+2Erg+SgErg+3Abs+SgAbs
+
+kabsatmo	kabsat+Sg+2Erg+SgErg
+kabsatmo	kabsat+Sg+2Erg+SgErg+3Abs+SgAbs
+
+gayyemmo	gayyem+Sg+2Erg+SgErg
+gayyemmo	gayyem+Sg+2Erg+SgErg+3Abs+SgAbs
+
+siketna	siket+Sg+3Erg+SgErg
+siketna	siket+Sg+3Erg+SgErg+3Abs+SgAbs
+
+baketna	baket+Sg+3Erg+SgErg
+baketna	baket+Sg+3Erg+SgErg+3Abs+SgAbs
+
+rebbengna	rebbeng+Sg+3Erg+SgErg
+rebbengna	rebbeng+Sg+3Erg+SgErg+3Abs+SgAbs
+
+tagainepta	tagainep+Guess+Sg+1Abs+DuAbs+InclAbs
+tagainepta	tagainep+Guess+Sg+1Erg+DuErg+InclErg
+tagainepta	tagainep+Guess+Sg+1Erg+DuErg+InclErg+3Abs+SgAbs
+tagainepta	tagainepta+Guess+Sg
+
+riknayo	rikna+Sg+2Erg+PlErg
+riknayo	rikna+Sg+2Erg+PlErg+3Abs+SgAbs
+
+nagistayanda	nagistayan+Guess+Sg+3Erg+PlErg
+nagistayanda	nagistayan+Guess+Sg+3Erg+PlErg+3Abs+SgAbs
+nagistayanda	nagistayan+Guess+Sg+3Abs+PlAbs
+nagistayanda	nagistayanda+Guess+Sg
+
+numeroda	numero+Sg+3Erg+PlErg
+numeroda	numero+Sg+3Erg+PlErg+3Abs+SgAbs
+numeroda	numero+Sg+3Abs+PlAbs
+
+kayatka	kayat+Sg+2Abs+SgAbs
+kayatka	kayat+Sg+1Erg+SgErg+2Abs+SgAbs
+
+abogadoka	abogado+Sg+2Abs+SgAbs
+abogadoka	abogado+Sg+1Erg+SgErg+2Abs+SgAbs
+
+titserka	titser+Guess+Sg+2Abs+SgAbs
+titserka	titser+Guess+Sg+1Erg+SgErg+2Abs+SgAbs
+titserka	titserka+Guess+Sg
+
+kasinsinnak	kasinsin+Sg+2Erg+SgErg+1Abs+SgAbs
+kasinsinnak	kasinsin+Sg+3Erg+SgErg+1Abs+SgAbs
+
+estudiantenak	estudiante+Sg+2Erg+SgErg+1Abs+SgAbs
+estudiantenak	estudiante+Sg+3Erg+SgErg+1Abs+SgAbs
+
+baronak	baro+Sg+2Erg+SgErg+1Abs+SgAbs
+baronak	baro+Sg+3Erg+SgErg+1Abs+SgAbs
+
+nakitadaka	nakita+Sg+3Erg+PlErg+2Abs+SgAbs
+nakitadaka	nakita+Sg+1Erg+PlErg+ExclErg+2Abs+SgAbs
+
+nakitadakami	nakita+Sg+3Erg+PlErg+1Abs+PlAbs+ExclAbs
+nakitadakami	nakita+Sg+2Erg+PlErg+1Abs+PlAbs+ExclAbs
+
