@@ -15,7 +15,7 @@ substitute defined Stem for "^GUESSNOUNSTEM"
 
 define AllNouns;
 
-define Apocope "^E" ->  0 || Vow _ .o. "^N" -> 0 || Cons _ ;
+define Apocope "^E" -> 0 || Vow _ .o. "^N" -> 0 || Cons _ ;
 define Realize "^E" -> e || "^N" -> n ;
 
 read regex ~$["+Guess"] .o. AllNouns .o. Apocope .o. Realize;
