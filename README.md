@@ -23,7 +23,7 @@ You must also have Foma installed (`flookup` needs to be in your path).
 DeDuplicator
 ============
 
-A Simple Python function for factoring redupliation into a prefix '<RED>'. Usage:
+A Simple Python function for factoring redupliation into a prefix `<RED>`. Usage:
 
 ```python
 >>> import deduplicator
